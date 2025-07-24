@@ -1,0 +1,1801 @@
+Transaction_ID,Account_ID,Date,Amount,Transaction_Type,Mode,Location,Channel,Is_Fraudulent
+T00001,A00188,2025-04-28,144498,Credit,Card,Delhi,POS,Yes
+T00002,A00092,2025-02-12,168723,Credit,Card,Bengaluru,ATM,Yes
+T00003,A00505,2025-06-29,19835,Debit,ATM,Delhi,Mobile App,Yes
+T00004,A00446,2025-06-12,15696,Credit,ATM,Kolkata,Internet Banking,Yes
+T00005,A00269,2025-03-27,162992,Debit,UPI,Hyderabad,ATM,Yes
+T00006,A00547,2025-01-28,126642,Debit,Card,Hyderabad,Internet Banking,No
+T00007,A00265,2024-08-21,187424,Credit,Net Banking,Kolkata,POS,No
+T00008,A00413,2024-11-29,161613,Credit,ATM,Delhi,Internet Banking,No
+T00009,A00490,2024-12-07,81250,Credit,ATM,Bengaluru,Internet Banking,No
+T00010,A00206,2024-11-02,25997,Debit,Card,Hyderabad,Mobile App,Yes
+T00011,A00333,2024-12-22,166375,Debit,UPI,Chennai,Mobile App,Yes
+T00012,A00454,2024-07-09,37964,Credit,Net Banking,Kolkata,Internet Banking,No
+T00013,A00269,2024-09-07,37900,Credit,Net Banking,Bengaluru,ATM,No
+T00014,A00135,2024-12-23,196879,Debit,ATM,Delhi,ATM,No
+T00015,A00149,2025-02-14,72726,Credit,Card,Kolkata,ATM,Yes
+T00016,A00215,2025-06-13,142702,Credit,Net Banking,Hyderabad,Mobile App,Yes
+T00017,A00222,2025-04-02,122158,Debit,Net Banking,Hyderabad,ATM,Yes
+T00018,A00157,2025-06-12,7482,Credit,UPI,Bengaluru,ATM,Yes
+T00019,A00146,2024-09-16,154078,Debit,Net Banking,Mumbai,POS,No
+T00020,A00166,2025-06-07,191514,Debit,ATM,Hyderabad,POS,No
+T00021,A00521,2024-12-23,192875,Debit,Card,Bengaluru,Internet Banking,No
+T00022,A00018,2024-08-04,146381,Debit,UPI,Kolkata,Mobile App,Yes
+T00023,A00109,2024-10-05,124531,Credit,ATM,Hyderabad,Internet Banking,Yes
+T00024,A00300,2024-11-02,39689,Debit,Net Banking,Mumbai,Internet Banking,No
+T00025,A00260,2025-03-25,195242,Debit,UPI,Hyderabad,POS,Yes
+T00026,A00158,2025-03-08,102277,Debit,Net Banking,Bengaluru,ATM,No
+T00027,A00355,2025-06-17,67145,Credit,ATM,Bengaluru,POS,No
+T00028,A00574,2025-04-02,150658,Credit,ATM,Kolkata,ATM,No
+T00029,A00580,2025-05-05,106759,Debit,ATM,Hyderabad,ATM,Yes
+T00030,A00158,2024-09-01,53757,Credit,ATM,Chennai,Mobile App,Yes
+T00031,A00189,2025-04-04,48159,Credit,UPI,Bengaluru,Internet Banking,Yes
+T00032,A00183,2025-04-10,46619,Debit,ATM,Kolkata,Mobile App,Yes
+T00033,A00363,2024-08-16,97930,Credit,ATM,Hyderabad,Internet Banking,No
+T00034,A00415,2024-08-04,20580,Debit,ATM,Kolkata,Mobile App,Yes
+T00035,A00059,2024-08-13,130125,Credit,ATM,Bengaluru,ATM,Yes
+T00036,A00387,2025-03-31,78362,Debit,UPI,Mumbai,Mobile App,No
+T00037,A00188,2024-12-21,37888,Debit,UPI,Hyderabad,POS,No
+T00038,A00346,2025-03-03,48733,Debit,Net Banking,Kolkata,POS,No
+T00039,A00217,2024-11-17,76020,Debit,Card,Chennai,Mobile App,No
+T00040,A00381,2024-08-02,3767,Debit,ATM,Kolkata,Internet Banking,Yes
+T00041,A00051,2025-01-19,69572,Debit,Net Banking,Delhi,POS,Yes
+T00042,A00399,2025-03-31,182000,Credit,Card,Bengaluru,Internet Banking,No
+T00043,A00249,2024-11-26,169362,Debit,Net Banking,Hyderabad,POS,No
+T00044,A00491,2025-04-08,176640,Credit,UPI,Bengaluru,ATM,Yes
+T00045,A00251,2025-05-03,56194,Debit,Net Banking,Bengaluru,ATM,Yes
+T00046,A00069,2025-01-14,45291,Debit,Net Banking,Bengaluru,Mobile App,Yes
+T00047,A00118,2025-02-22,109994,Debit,Net Banking,Delhi,Internet Banking,No
+T00048,A00545,2024-08-31,26230,Credit,Net Banking,Bengaluru,POS,No
+T00049,A00057,2024-11-24,28380,Credit,Card,Bengaluru,Internet Banking,No
+T00050,A00279,2025-01-29,139972,Debit,UPI,Hyderabad,ATM,Yes
+T00051,A00407,2024-11-24,163116,Credit,UPI,Mumbai,Internet Banking,No
+T00052,A00504,2024-07-17,13631,Debit,Net Banking,Bengaluru,POS,Yes
+T00053,A00283,2025-04-24,9391,Debit,ATM,Kolkata,Internet Banking,No
+T00054,A00108,2024-09-04,50541,Credit,ATM,Hyderabad,Internet Banking,No
+T00055,A00242,2025-06-19,80179,Credit,Net Banking,Kolkata,ATM,Yes
+T00056,A00007,2024-11-07,100388,Debit,ATM,Chennai,Mobile App,No
+T00057,A00498,2025-02-04,137945,Credit,ATM,Chennai,ATM,Yes
+T00058,A00323,2025-06-03,113246,Credit,Card,Hyderabad,Internet Banking,Yes
+T00059,A00235,2025-03-13,26109,Debit,UPI,Kolkata,Internet Banking,Yes
+T00060,A00573,2025-05-31,180335,Credit,UPI,Bengaluru,Internet Banking,No
+T00061,A00313,2024-08-27,100103,Credit,ATM,Chennai,Mobile App,Yes
+T00062,A00125,2024-08-31,56490,Debit,ATM,Delhi,Mobile App,Yes
+T00063,A00576,2025-06-02,13275,Debit,UPI,Hyderabad,ATM,Yes
+T00064,A00332,2024-08-25,124589,Debit,Card,Hyderabad,ATM,Yes
+T00065,A00153,2024-09-07,3245,Credit,Net Banking,Bengaluru,POS,Yes
+T00066,A00014,2025-04-24,39240,Credit,Card,Chennai,ATM,Yes
+T00067,A00074,2025-04-02,143271,Debit,Card,Delhi,Internet Banking,No
+T00068,A00226,2024-07-19,104788,Debit,ATM,Bengaluru,Mobile App,Yes
+T00069,A00395,2024-12-09,117711,Debit,UPI,Chennai,POS,No
+T00070,A00179,2024-10-27,182148,Debit,Card,Hyderabad,POS,Yes
+T00071,A00411,2024-10-28,171227,Debit,Card,Delhi,Internet Banking,No
+T00072,A00059,2025-04-09,44621,Debit,UPI,Hyderabad,POS,Yes
+T00073,A00521,2025-04-24,14803,Debit,Net Banking,Bengaluru,POS,Yes
+T00074,A00294,2024-12-20,39800,Debit,Net Banking,Hyderabad,Internet Banking,No
+T00075,A00409,2024-10-20,9313,Credit,Net Banking,Chennai,Mobile App,No
+T00076,A00235,2025-02-28,8435,Debit,Card,Kolkata,ATM,Yes
+T00077,A00585,2024-09-08,155959,Debit,UPI,Hyderabad,Mobile App,No
+T00078,A00485,2024-08-14,87976,Debit,ATM,Delhi,ATM,No
+T00079,A00375,2025-06-13,62082,Debit,Card,Kolkata,Internet Banking,No
+T00080,A00396,2024-08-20,102578,Credit,ATM,Kolkata,Mobile App,No
+T00081,A00065,2024-09-16,108655,Credit,Card,Delhi,ATM,No
+T00082,A00322,2024-07-01,189221,Debit,ATM,Kolkata,Mobile App,No
+T00083,A00284,2025-02-26,35631,Debit,Card,Kolkata,ATM,Yes
+T00084,A00488,2025-04-23,18470,Debit,Net Banking,Bengaluru,Internet Banking,No
+T00085,A00047,2024-10-06,149847,Credit,ATM,Chennai,Internet Banking,Yes
+T00086,A00371,2024-07-04,94574,Debit,UPI,Bengaluru,ATM,No
+T00087,A00327,2024-12-25,51635,Debit,UPI,Delhi,Internet Banking,Yes
+T00088,A00258,2025-01-09,107387,Credit,ATM,Delhi,POS,No
+T00089,A00583,2025-05-28,142628,Debit,Net Banking,Mumbai,Internet Banking,Yes
+T00090,A00075,2025-01-09,153032,Debit,ATM,Hyderabad,Mobile App,Yes
+T00091,A00179,2025-01-27,8272,Credit,Net Banking,Kolkata,Internet Banking,No
+T00092,A00069,2025-05-09,2715,Credit,ATM,Kolkata,ATM,Yes
+T00093,A00378,2024-07-02,88957,Debit,Net Banking,Bengaluru,Internet Banking,No
+T00094,A00089,2025-02-21,121956,Credit,UPI,Chennai,ATM,No
+T00095,A00439,2025-06-07,124827,Credit,Card,Kolkata,Mobile App,No
+T00096,A00275,2025-01-07,158674,Credit,ATM,Mumbai,POS,Yes
+T00097,A00074,2024-09-30,82148,Credit,Card,Chennai,Internet Banking,Yes
+T00098,A00080,2024-09-22,7970,Debit,Card,Chennai,Internet Banking,Yes
+T00099,A00580,2025-02-13,15810,Credit,Net Banking,Bengaluru,Mobile App,Yes
+T00100,A00351,2025-03-13,25208,Debit,Net Banking,Delhi,Internet Banking,Yes
+T00101,A00338,2024-12-31,129843,Credit,ATM,Delhi,Mobile App,Yes
+T00102,A00439,2024-12-23,63904,Credit,ATM,Hyderabad,ATM,Yes
+T00103,A00279,2024-12-06,35898,Debit,ATM,Kolkata,POS,Yes
+T00104,A00018,2024-12-18,87535,Credit,Card,Chennai,Internet Banking,No
+T00105,A00584,2024-07-30,147709,Credit,UPI,Chennai,Internet Banking,Yes
+T00106,A00094,2025-02-18,3330,Debit,Card,Delhi,Mobile App,No
+T00107,A00591,2025-02-18,6914,Credit,UPI,Hyderabad,POS,No
+T00108,A00385,2024-07-02,121051,Debit,UPI,Hyderabad,POS,No
+T00109,A00217,2024-10-03,56772,Debit,Net Banking,Bengaluru,Internet Banking,No
+T00110,A00329,2025-06-07,161406,Credit,Card,Bengaluru,ATM,Yes
+T00111,A00462,2025-01-28,121073,Debit,UPI,Delhi,ATM,Yes
+T00112,A00561,2024-10-16,23555,Credit,Net Banking,Hyderabad,ATM,No
+T00113,A00509,2025-02-25,49778,Debit,Card,Kolkata,Mobile App,Yes
+T00114,A00367,2025-03-01,197398,Debit,Card,Chennai,ATM,No
+T00115,A00190,2025-02-01,9172,Credit,UPI,Hyderabad,Internet Banking,Yes
+T00116,A00062,2025-05-14,171633,Credit,Net Banking,Bengaluru,Mobile App,No
+T00117,A00489,2025-05-16,118450,Debit,Card,Chennai,Mobile App,Yes
+T00118,A00001,2024-09-18,45100,Credit,Card,Mumbai,Mobile App,Yes
+T00119,A00141,2024-07-18,42107,Credit,Card,Bengaluru,ATM,Yes
+T00120,A00019,2024-09-09,24616,Debit,ATM,Mumbai,Mobile App,No
+T00121,A00260,2024-08-26,28714,Debit,ATM,Hyderabad,Internet Banking,Yes
+T00122,A00173,2024-07-21,53628,Debit,Net Banking,Bengaluru,POS,No
+T00123,A00446,2025-03-10,141798,Debit,Net Banking,Bengaluru,ATM,No
+T00124,A00163,2024-11-12,99891,Debit,Net Banking,Mumbai,Internet Banking,No
+T00125,A00016,2024-07-14,148570,Credit,UPI,Bengaluru,ATM,Yes
+T00126,A00073,2024-08-25,10915,Debit,Card,Hyderabad,ATM,Yes
+T00127,A00509,2025-05-27,194937,Debit,ATM,Mumbai,Internet Banking,Yes
+T00128,A00099,2024-07-12,133614,Credit,Net Banking,Chennai,ATM,Yes
+T00129,A00140,2025-03-16,123992,Credit,Net Banking,Delhi,Mobile App,Yes
+T00130,A00092,2025-02-09,19910,Debit,UPI,Chennai,Internet Banking,No
+T00131,A00154,2025-05-21,171826,Credit,Card,Bengaluru,POS,No
+T00132,A00315,2025-02-19,102296,Credit,Card,Kolkata,ATM,No
+T00133,A00076,2024-10-23,130022,Debit,Card,Kolkata,Mobile App,No
+T00134,A00207,2024-11-05,37464,Debit,ATM,Delhi,Mobile App,Yes
+T00135,A00586,2025-06-22,48763,Debit,UPI,Hyderabad,ATM,No
+T00136,A00250,2024-08-03,31544,Credit,Card,Mumbai,Mobile App,Yes
+T00137,A00441,2024-07-19,6640,Credit,ATM,Mumbai,Internet Banking,No
+T00138,A00414,2024-08-11,66654,Credit,Card,Kolkata,ATM,Yes
+T00139,A00474,2024-12-08,82993,Credit,Net Banking,Delhi,POS,No
+T00140,A00545,2024-09-07,186207,Debit,Net Banking,Bengaluru,ATM,Yes
+T00141,A00581,2024-08-31,73324,Debit,Card,Delhi,Internet Banking,No
+T00142,A00465,2025-03-18,194999,Credit,UPI,Chennai,Mobile App,No
+T00143,A00416,2024-10-18,106927,Debit,UPI,Delhi,Mobile App,No
+T00144,A00038,2025-02-22,29427,Credit,Card,Chennai,Internet Banking,No
+T00145,A00580,2025-03-13,130117,Credit,ATM,Mumbai,POS,No
+T00146,A00536,2025-03-25,29187,Credit,ATM,Hyderabad,Mobile App,No
+T00147,A00486,2025-03-28,149385,Credit,Card,Kolkata,ATM,Yes
+T00148,A00221,2025-02-16,43926,Credit,Net Banking,Kolkata,ATM,Yes
+T00149,A00076,2025-02-07,143534,Credit,UPI,Delhi,Mobile App,Yes
+T00150,A00169,2025-05-01,18031,Debit,Net Banking,Hyderabad,Internet Banking,Yes
+T00151,A00437,2025-02-03,124346,Credit,UPI,Kolkata,Internet Banking,No
+T00152,A00503,2024-09-06,1748,Debit,Card,Delhi,Internet Banking,Yes
+T00153,A00496,2024-12-23,119319,Credit,UPI,Chennai,ATM,No
+T00154,A00237,2025-04-17,67427,Credit,Card,Bengaluru,Mobile App,No
+T00155,A00082,2025-02-09,80419,Debit,Card,Bengaluru,Mobile App,Yes
+T00156,A00190,2024-11-16,64293,Debit,Net Banking,Hyderabad,Internet Banking,Yes
+T00157,A00136,2025-06-26,106808,Credit,ATM,Bengaluru,ATM,Yes
+T00158,A00449,2024-07-13,14201,Credit,ATM,Hyderabad,Mobile App,No
+T00159,A00399,2024-08-05,38032,Debit,ATM,Hyderabad,ATM,Yes
+T00160,A00029,2025-04-24,59235,Credit,ATM,Hyderabad,Mobile App,No
+T00161,A00472,2024-10-24,199218,Credit,UPI,Mumbai,Internet Banking,Yes
+T00162,A00348,2024-11-02,79145,Credit,Net Banking,Delhi,Internet Banking,No
+T00163,A00591,2024-11-20,76943,Debit,UPI,Chennai,Mobile App,No
+T00164,A00544,2025-06-13,34636,Credit,Card,Mumbai,POS,Yes
+T00165,A00548,2024-11-24,48247,Debit,UPI,Mumbai,POS,Yes
+T00166,A00487,2025-05-14,94614,Debit,UPI,Kolkata,Mobile App,Yes
+T00167,A00558,2024-07-26,37907,Credit,UPI,Delhi,Mobile App,Yes
+T00168,A00431,2025-04-20,24438,Debit,ATM,Bengaluru,Mobile App,Yes
+T00169,A00361,2024-12-12,169955,Debit,Net Banking,Chennai,POS,Yes
+T00170,A00243,2025-05-23,104252,Credit,UPI,Bengaluru,Internet Banking,No
+T00171,A00213,2025-01-29,4136,Debit,Card,Mumbai,Internet Banking,No
+T00172,A00586,2024-07-25,37867,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T00173,A00317,2024-10-21,89837,Debit,UPI,Mumbai,Internet Banking,No
+T00174,A00208,2024-12-29,47570,Credit,Card,Hyderabad,POS,Yes
+T00175,A00119,2024-08-21,56375,Debit,UPI,Delhi,POS,Yes
+T00176,A00094,2024-08-16,154165,Credit,UPI,Hyderabad,POS,No
+T00177,A00392,2025-03-26,70846,Credit,Card,Hyderabad,ATM,Yes
+T00178,A00337,2025-05-29,198104,Credit,Net Banking,Hyderabad,Internet Banking,No
+T00179,A00317,2024-10-14,21669,Credit,ATM,Mumbai,Internet Banking,Yes
+T00180,A00193,2024-11-04,37302,Debit,ATM,Bengaluru,Internet Banking,Yes
+T00181,A00032,2025-01-20,192138,Credit,ATM,Bengaluru,Mobile App,No
+T00182,A00525,2024-12-07,174247,Debit,Net Banking,Mumbai,ATM,No
+T00183,A00593,2025-01-19,191576,Debit,UPI,Hyderabad,Mobile App,Yes
+T00184,A00343,2024-09-19,4561,Credit,UPI,Delhi,ATM,Yes
+T00185,A00187,2025-03-27,153019,Credit,ATM,Chennai,POS,Yes
+T00186,A00239,2024-09-19,71297,Credit,UPI,Mumbai,Internet Banking,Yes
+T00187,A00128,2025-02-22,80077,Credit,ATM,Bengaluru,Internet Banking,No
+T00188,A00149,2024-07-22,194586,Debit,UPI,Delhi,ATM,No
+T00189,A00047,2024-08-11,117036,Credit,UPI,Bengaluru,Mobile App,Yes
+T00190,A00163,2025-02-06,124476,Credit,ATM,Delhi,POS,No
+T00191,A00124,2025-04-09,47363,Credit,Card,Mumbai,Internet Banking,No
+T00192,A00071,2025-03-01,98620,Debit,ATM,Delhi,Mobile App,No
+T00193,A00361,2025-01-21,161849,Debit,Card,Kolkata,Mobile App,Yes
+T00194,A00025,2024-08-03,6025,Credit,Net Banking,Chennai,Mobile App,No
+T00195,A00358,2025-01-03,54689,Credit,Card,Bengaluru,POS,Yes
+T00196,A00498,2025-04-07,176890,Credit,ATM,Hyderabad,Mobile App,Yes
+T00197,A00388,2025-03-24,47975,Debit,UPI,Hyderabad,POS,Yes
+T00198,A00279,2025-02-19,110375,Credit,ATM,Hyderabad,POS,No
+T00199,A00290,2025-06-27,168279,Debit,UPI,Hyderabad,Mobile App,Yes
+T00200,A00577,2025-05-02,164073,Credit,Net Banking,Delhi,Mobile App,No
+T00201,A00468,2025-03-31,92668,Debit,ATM,Delhi,Mobile App,Yes
+T00202,A00291,2024-10-19,82886,Credit,Net Banking,Kolkata,ATM,Yes
+T00203,A00492,2024-12-12,24839,Credit,Net Banking,Chennai,ATM,Yes
+T00204,A00008,2025-02-21,58990,Debit,UPI,Bengaluru,Internet Banking,Yes
+T00205,A00052,2025-05-25,34322,Debit,Card,Delhi,ATM,Yes
+T00206,A00002,2024-10-30,123392,Credit,Card,Mumbai,Mobile App,Yes
+T00207,A00144,2024-10-08,107310,Credit,Net Banking,Hyderabad,POS,No
+T00208,A00431,2025-01-20,20783,Debit,Net Banking,Hyderabad,ATM,Yes
+T00209,A00575,2025-02-08,170898,Debit,UPI,Mumbai,POS,No
+T00210,A00476,2025-02-27,122159,Debit,ATM,Mumbai,ATM,Yes
+T00211,A00406,2024-11-14,158088,Credit,UPI,Delhi,ATM,Yes
+T00212,A00314,2025-06-25,78771,Debit,UPI,Delhi,Mobile App,Yes
+T00213,A00317,2024-08-19,188896,Credit,Net Banking,Hyderabad,POS,No
+T00214,A00558,2025-02-23,146164,Credit,Net Banking,Bengaluru,Internet Banking,Yes
+T00215,A00446,2025-02-03,6419,Credit,UPI,Chennai,POS,No
+T00216,A00509,2025-01-08,177604,Credit,Net Banking,Mumbai,ATM,Yes
+T00217,A00411,2025-01-17,35210,Debit,ATM,Bengaluru,POS,No
+T00218,A00305,2025-04-09,70970,Debit,Card,Delhi,POS,No
+T00219,A00587,2025-03-02,90525,Credit,Card,Kolkata,ATM,No
+T00220,A00459,2025-01-09,181514,Credit,UPI,Bengaluru,Mobile App,Yes
+T00221,A00461,2025-01-07,94233,Debit,Card,Delhi,ATM,No
+T00222,A00317,2025-05-09,153282,Credit,Net Banking,Kolkata,Internet Banking,No
+T00223,A00092,2024-09-07,141670,Debit,Net Banking,Bengaluru,POS,Yes
+T00224,A00430,2025-06-08,92048,Debit,Card,Delhi,Mobile App,No
+T00225,A00207,2025-02-21,29446,Debit,UPI,Chennai,Mobile App,Yes
+T00226,A00395,2024-09-28,100308,Credit,UPI,Kolkata,Mobile App,No
+T00227,A00356,2025-04-01,9813,Debit,Card,Hyderabad,Internet Banking,No
+T00228,A00437,2024-10-20,34549,Credit,Net Banking,Kolkata,ATM,Yes
+T00229,A00035,2024-09-13,27826,Credit,UPI,Delhi,ATM,No
+T00230,A00264,2024-06-30,27966,Debit,ATM,Hyderabad,Internet Banking,No
+T00231,A00339,2024-08-14,150825,Credit,ATM,Bengaluru,POS,Yes
+T00232,A00034,2024-07-09,175058,Credit,ATM,Mumbai,ATM,Yes
+T00233,A00024,2024-12-27,29051,Credit,UPI,Hyderabad,ATM,Yes
+T00234,A00417,2025-02-27,83899,Debit,UPI,Mumbai,POS,Yes
+T00235,A00251,2025-05-05,140877,Credit,Card,Chennai,Mobile App,Yes
+T00236,A00362,2024-08-14,152521,Debit,UPI,Bengaluru,ATM,No
+T00237,A00323,2025-04-12,23933,Credit,Card,Kolkata,ATM,No
+T00238,A00226,2025-05-25,44855,Credit,Card,Delhi,ATM,No
+T00239,A00482,2024-09-18,112787,Credit,Net Banking,Chennai,Mobile App,No
+T00240,A00204,2025-05-06,141786,Debit,UPI,Delhi,Mobile App,No
+T00241,A00039,2025-02-23,106164,Credit,UPI,Chennai,POS,No
+T00242,A00396,2024-12-08,198660,Debit,ATM,Hyderabad,Internet Banking,Yes
+T00243,A00279,2024-12-07,184418,Credit,ATM,Hyderabad,Internet Banking,Yes
+T00244,A00579,2024-07-17,74951,Credit,Net Banking,Bengaluru,POS,No
+T00245,A00437,2024-11-06,192122,Debit,Net Banking,Bengaluru,ATM,No
+T00246,A00191,2024-11-12,159129,Credit,Net Banking,Bengaluru,Internet Banking,No
+T00247,A00476,2025-02-02,140572,Credit,Net Banking,Bengaluru,ATM,No
+T00248,A00452,2025-05-09,108529,Credit,Net Banking,Mumbai,POS,Yes
+T00249,A00081,2025-03-04,67025,Credit,Net Banking,Bengaluru,Mobile App,No
+T00250,A00113,2024-09-20,125658,Credit,Card,Hyderabad,ATM,No
+T00251,A00580,2024-07-04,145852,Credit,UPI,Kolkata,Internet Banking,Yes
+T00252,A00367,2025-03-05,112287,Debit,UPI,Mumbai,Mobile App,Yes
+T00253,A00141,2024-09-16,134762,Credit,Card,Chennai,Internet Banking,Yes
+T00254,A00583,2025-03-24,176906,Debit,Net Banking,Hyderabad,Internet Banking,No
+T00255,A00390,2024-10-17,110541,Credit,Net Banking,Mumbai,ATM,No
+T00256,A00229,2024-10-06,33366,Debit,Net Banking,Chennai,Mobile App,No
+T00257,A00329,2025-05-02,56171,Credit,Net Banking,Delhi,Internet Banking,No
+T00258,A00211,2024-07-26,121632,Credit,UPI,Bengaluru,Mobile App,Yes
+T00259,A00051,2024-10-27,99549,Debit,Card,Mumbai,ATM,Yes
+T00260,A00380,2024-10-24,15510,Credit,ATM,Mumbai,POS,Yes
+T00261,A00478,2025-01-12,2635,Debit,Net Banking,Kolkata,Mobile App,Yes
+T00262,A00009,2025-01-29,131224,Debit,UPI,Hyderabad,POS,Yes
+T00263,A00184,2024-11-02,137861,Debit,UPI,Bengaluru,Mobile App,No
+T00264,A00377,2025-04-23,70678,Credit,UPI,Bengaluru,Internet Banking,No
+T00265,A00359,2024-07-02,81878,Credit,UPI,Bengaluru,Mobile App,Yes
+T00266,A00113,2024-08-13,119686,Debit,UPI,Bengaluru,ATM,Yes
+T00267,A00166,2025-03-23,67947,Debit,Net Banking,Hyderabad,ATM,No
+T00268,A00542,2024-11-06,6295,Debit,Card,Delhi,Internet Banking,No
+T00269,A00165,2024-11-09,134100,Credit,Card,Hyderabad,Mobile App,Yes
+T00270,A00474,2024-11-30,196498,Credit,Net Banking,Kolkata,POS,Yes
+T00271,A00424,2025-04-07,60582,Debit,Net Banking,Hyderabad,Internet Banking,No
+T00272,A00212,2025-02-05,115003,Credit,UPI,Mumbai,Internet Banking,Yes
+T00273,A00437,2025-02-24,172420,Credit,Net Banking,Kolkata,POS,Yes
+T00274,A00307,2024-07-11,146242,Debit,Net Banking,Delhi,Internet Banking,Yes
+T00275,A00241,2025-05-19,23318,Credit,Net Banking,Kolkata,POS,No
+T00276,A00081,2024-09-06,148094,Debit,Card,Delhi,POS,No
+T00277,A00322,2024-09-13,28814,Credit,Net Banking,Chennai,Internet Banking,No
+T00278,A00297,2024-11-05,150016,Credit,ATM,Mumbai,Mobile App,Yes
+T00279,A00538,2025-05-19,8627,Credit,UPI,Kolkata,Mobile App,Yes
+T00280,A00574,2024-11-08,128732,Debit,Net Banking,Kolkata,Internet Banking,Yes
+T00281,A00584,2025-06-23,76534,Credit,Net Banking,Delhi,Mobile App,No
+T00282,A00344,2025-03-18,162553,Debit,Net Banking,Delhi,Internet Banking,No
+T00283,A00403,2025-01-02,148802,Debit,Card,Kolkata,POS,No
+T00284,A00358,2025-06-20,34343,Debit,Card,Bengaluru,POS,Yes
+T00285,A00289,2024-12-31,22579,Credit,ATM,Kolkata,Internet Banking,Yes
+T00286,A00424,2025-05-05,114704,Credit,Card,Mumbai,ATM,Yes
+T00287,A00446,2024-07-13,78946,Credit,Card,Delhi,Mobile App,Yes
+T00288,A00254,2025-03-07,11532,Debit,Net Banking,Mumbai,Mobile App,Yes
+T00289,A00306,2024-08-21,13299,Debit,Net Banking,Hyderabad,POS,No
+T00290,A00339,2025-01-02,105918,Debit,Card,Bengaluru,Internet Banking,No
+T00291,A00269,2024-08-29,149857,Credit,Net Banking,Kolkata,Internet Banking,No
+T00292,A00300,2025-02-28,193294,Credit,ATM,Bengaluru,POS,No
+T00293,A00227,2024-12-25,190442,Credit,Card,Kolkata,ATM,Yes
+T00294,A00315,2025-06-11,138796,Debit,Card,Hyderabad,ATM,Yes
+T00295,A00264,2025-06-01,52948,Debit,ATM,Hyderabad,POS,No
+T00296,A00075,2025-01-24,103132,Credit,ATM,Hyderabad,POS,Yes
+T00297,A00313,2025-06-12,159465,Credit,UPI,Delhi,POS,No
+T00298,A00125,2024-11-07,191560,Debit,Net Banking,Kolkata,Internet Banking,Yes
+T00299,A00406,2024-12-26,164025,Debit,Card,Bengaluru,POS,No
+T00300,A00584,2025-04-30,33617,Debit,ATM,Mumbai,ATM,No
+T00301,A00251,2025-05-12,51842,Debit,ATM,Delhi,Mobile App,Yes
+T00302,A00249,2024-12-07,85568,Credit,Net Banking,Kolkata,ATM,Yes
+T00303,A00265,2025-06-25,60514,Credit,Card,Mumbai,POS,No
+T00304,A00283,2025-04-14,73133,Credit,Net Banking,Chennai,Mobile App,No
+T00305,A00593,2024-07-21,141744,Credit,UPI,Bengaluru,POS,No
+T00306,A00462,2025-05-20,70620,Debit,Card,Chennai,ATM,No
+T00307,A00292,2025-01-18,133757,Debit,Net Banking,Mumbai,ATM,No
+T00308,A00232,2024-10-24,114669,Credit,ATM,Chennai,Mobile App,No
+T00309,A00589,2025-02-04,70988,Credit,ATM,Hyderabad,Mobile App,No
+T00310,A00277,2025-04-07,117815,Credit,ATM,Kolkata,Mobile App,No
+T00311,A00420,2025-03-20,10342,Debit,Net Banking,Kolkata,ATM,No
+T00312,A00271,2024-10-30,132265,Credit,Card,Delhi,POS,Yes
+T00313,A00018,2025-01-31,41445,Debit,Card,Mumbai,Mobile App,No
+T00314,A00539,2025-01-24,30841,Credit,Net Banking,Chennai,Internet Banking,Yes
+T00315,A00575,2024-07-07,58820,Credit,ATM,Chennai,POS,Yes
+T00316,A00176,2024-09-18,150592,Debit,Net Banking,Mumbai,Internet Banking,No
+T00317,A00150,2025-02-09,138455,Credit,Card,Kolkata,POS,Yes
+T00318,A00230,2025-03-23,107636,Debit,ATM,Chennai,Mobile App,Yes
+T00319,A00049,2024-11-05,83608,Credit,UPI,Delhi,Mobile App,Yes
+T00320,A00337,2025-05-06,72011,Debit,Card,Mumbai,ATM,No
+T00321,A00513,2025-06-20,113265,Credit,Net Banking,Chennai,Mobile App,No
+T00322,A00431,2025-06-09,49249,Credit,ATM,Kolkata,ATM,Yes
+T00323,A00132,2025-05-05,38906,Debit,ATM,Delhi,Internet Banking,Yes
+T00324,A00489,2024-11-14,187379,Credit,Card,Mumbai,Mobile App,No
+T00325,A00224,2024-07-25,2650,Credit,Card,Delhi,Internet Banking,No
+T00326,A00590,2024-08-26,44185,Debit,UPI,Chennai,Internet Banking,Yes
+T00327,A00546,2024-10-16,17380,Credit,Card,Chennai,ATM,No
+T00328,A00535,2025-05-22,43746,Debit,ATM,Bengaluru,ATM,No
+T00329,A00597,2024-07-12,52345,Debit,ATM,Mumbai,Internet Banking,No
+T00330,A00277,2024-11-08,194998,Debit,Net Banking,Kolkata,Internet Banking,Yes
+T00331,A00103,2024-11-22,190640,Credit,Card,Hyderabad,Mobile App,Yes
+T00332,A00256,2025-02-28,128987,Debit,Net Banking,Kolkata,Mobile App,Yes
+T00333,A00162,2025-01-23,180014,Credit,UPI,Mumbai,Internet Banking,No
+T00334,A00107,2025-05-23,194753,Credit,ATM,Bengaluru,POS,Yes
+T00335,A00009,2024-09-02,38998,Debit,ATM,Bengaluru,Mobile App,Yes
+T00336,A00585,2025-02-06,3912,Credit,Card,Mumbai,Internet Banking,Yes
+T00337,A00457,2025-02-20,94282,Credit,UPI,Hyderabad,ATM,No
+T00338,A00133,2024-11-28,86306,Debit,Card,Bengaluru,Internet Banking,Yes
+T00339,A00063,2024-09-10,490,Credit,ATM,Hyderabad,POS,No
+T00340,A00178,2025-02-16,54661,Credit,Card,Chennai,ATM,Yes
+T00341,A00118,2024-08-14,199686,Debit,Net Banking,Chennai,ATM,Yes
+T00342,A00491,2025-05-31,57196,Debit,Net Banking,Chennai,Internet Banking,No
+T00343,A00045,2025-04-29,618,Debit,ATM,Delhi,Mobile App,Yes
+T00344,A00491,2025-04-17,16080,Debit,Card,Delhi,POS,Yes
+T00345,A00335,2024-10-27,5505,Credit,Net Banking,Hyderabad,POS,Yes
+T00346,A00309,2025-03-30,4864,Debit,Card,Hyderabad,ATM,No
+T00347,A00532,2025-05-29,143897,Debit,ATM,Hyderabad,Mobile App,No
+T00348,A00357,2024-10-30,136151,Credit,Card,Kolkata,Internet Banking,No
+T00349,A00198,2025-04-01,98902,Debit,ATM,Kolkata,ATM,Yes
+T00350,A00294,2024-07-12,65286,Debit,ATM,Delhi,ATM,No
+T00351,A00423,2024-10-13,76564,Debit,Card,Hyderabad,POS,No
+T00352,A00380,2024-12-07,195076,Debit,Net Banking,Mumbai,POS,No
+T00353,A00345,2024-08-02,187353,Credit,Card,Delhi,Mobile App,No
+T00354,A00484,2025-01-09,105824,Debit,Net Banking,Delhi,Internet Banking,No
+T00355,A00600,2025-06-05,118965,Debit,ATM,Bengaluru,POS,Yes
+T00356,A00136,2024-09-30,62823,Credit,Net Banking,Delhi,POS,Yes
+T00357,A00129,2024-11-21,155746,Credit,Card,Chennai,Internet Banking,Yes
+T00358,A00039,2024-12-22,29258,Debit,Net Banking,Chennai,POS,No
+T00359,A00251,2025-05-18,160581,Debit,Net Banking,Chennai,ATM,No
+T00360,A00011,2024-10-25,1365,Credit,Card,Mumbai,ATM,No
+T00361,A00044,2024-09-21,980,Debit,Net Banking,Bengaluru,Internet Banking,No
+T00362,A00310,2025-01-19,135407,Credit,ATM,Chennai,ATM,Yes
+T00363,A00285,2024-10-25,136701,Debit,ATM,Bengaluru,ATM,Yes
+T00364,A00581,2024-09-05,149977,Credit,Net Banking,Mumbai,ATM,Yes
+T00365,A00444,2024-08-12,149031,Credit,Card,Hyderabad,Mobile App,No
+T00366,A00312,2024-11-22,23688,Credit,UPI,Bengaluru,Mobile App,Yes
+T00367,A00391,2025-04-30,31902,Debit,Card,Hyderabad,ATM,Yes
+T00368,A00066,2024-07-14,66192,Credit,ATM,Delhi,ATM,Yes
+T00369,A00152,2025-04-28,31324,Credit,UPI,Mumbai,ATM,No
+T00370,A00229,2024-09-16,106581,Debit,Net Banking,Delhi,Internet Banking,Yes
+T00371,A00581,2025-06-19,794,Debit,ATM,Bengaluru,ATM,Yes
+T00372,A00056,2024-08-04,6166,Debit,ATM,Chennai,Mobile App,Yes
+T00373,A00029,2024-12-19,152050,Debit,Net Banking,Delhi,POS,No
+T00374,A00145,2025-01-12,24307,Debit,Net Banking,Kolkata,Internet Banking,Yes
+T00375,A00365,2024-07-09,100889,Debit,Card,Bengaluru,POS,No
+T00376,A00110,2025-05-06,148923,Credit,Card,Bengaluru,Internet Banking,No
+T00377,A00140,2025-01-03,197486,Credit,Net Banking,Mumbai,POS,No
+T00378,A00118,2025-06-16,194448,Debit,Card,Hyderabad,POS,Yes
+T00379,A00209,2025-01-10,164667,Debit,ATM,Delhi,POS,No
+T00380,A00473,2024-08-28,40016,Credit,Card,Chennai,POS,Yes
+T00381,A00342,2024-09-11,61729,Credit,ATM,Delhi,Mobile App,No
+T00382,A00403,2024-11-09,36502,Credit,Net Banking,Hyderabad,POS,No
+T00383,A00365,2025-06-23,179802,Credit,UPI,Delhi,Internet Banking,Yes
+T00384,A00542,2025-01-03,129722,Debit,ATM,Mumbai,Internet Banking,Yes
+T00385,A00402,2025-04-10,52932,Credit,UPI,Delhi,ATM,No
+T00386,A00195,2025-06-04,119833,Debit,ATM,Bengaluru,POS,Yes
+T00387,A00339,2025-01-19,194653,Debit,Net Banking,Delhi,Internet Banking,No
+T00388,A00597,2024-10-28,152660,Credit,Card,Kolkata,Internet Banking,No
+T00389,A00346,2025-04-27,176589,Credit,ATM,Bengaluru,Internet Banking,Yes
+T00390,A00483,2024-11-04,139542,Debit,Net Banking,Bengaluru,POS,No
+T00391,A00003,2024-08-24,151401,Debit,UPI,Kolkata,Internet Banking,No
+T00392,A00569,2025-04-24,190614,Credit,ATM,Kolkata,ATM,Yes
+T00393,A00441,2025-06-03,120641,Credit,UPI,Kolkata,Mobile App,Yes
+T00394,A00081,2024-08-07,194089,Debit,Card,Delhi,ATM,No
+T00395,A00588,2025-05-15,187889,Credit,Net Banking,Chennai,Internet Banking,No
+T00396,A00224,2025-06-29,162046,Debit,UPI,Chennai,ATM,No
+T00397,A00071,2025-01-16,11825,Credit,UPI,Mumbai,Mobile App,Yes
+T00398,A00268,2025-03-19,101865,Debit,ATM,Mumbai,POS,Yes
+T00399,A00370,2024-08-20,2434,Debit,Net Banking,Hyderabad,Internet Banking,No
+T00400,A00566,2024-09-17,142123,Debit,ATM,Bengaluru,Internet Banking,No
+T00401,A00306,2025-04-07,192266,Debit,UPI,Bengaluru,Internet Banking,No
+T00402,A00194,2024-07-14,88400,Credit,UPI,Chennai,ATM,Yes
+T00403,A00266,2024-12-25,78796,Debit,Net Banking,Mumbai,POS,No
+T00404,A00336,2024-11-27,142529,Credit,UPI,Hyderabad,Internet Banking,Yes
+T00405,A00407,2025-04-03,21648,Credit,ATM,Bengaluru,POS,Yes
+T00406,A00398,2025-05-31,143653,Debit,Net Banking,Hyderabad,Internet Banking,No
+T00407,A00227,2025-01-18,111578,Credit,ATM,Bengaluru,Mobile App,Yes
+T00408,A00087,2024-08-13,125936,Credit,Net Banking,Delhi,Mobile App,Yes
+T00409,A00075,2024-07-01,67736,Credit,ATM,Mumbai,Internet Banking,No
+T00410,A00229,2024-10-28,101945,Debit,UPI,Chennai,POS,No
+T00411,A00556,2025-06-27,64310,Debit,ATM,Hyderabad,ATM,No
+T00412,A00564,2024-07-17,10751,Credit,Net Banking,Delhi,POS,Yes
+T00413,A00380,2025-03-23,13380,Debit,UPI,Hyderabad,POS,No
+T00414,A00050,2025-05-25,6144,Debit,UPI,Bengaluru,Internet Banking,Yes
+T00415,A00210,2025-02-15,156527,Credit,Card,Delhi,Mobile App,No
+T00416,A00304,2025-06-03,154630,Credit,ATM,Kolkata,Mobile App,No
+T00417,A00188,2024-08-02,135117,Debit,ATM,Chennai,POS,Yes
+T00418,A00196,2024-11-06,72800,Debit,UPI,Bengaluru,POS,No
+T00419,A00418,2024-12-28,179484,Credit,Net Banking,Delhi,Internet Banking,Yes
+T00420,A00162,2025-06-10,57540,Debit,ATM,Mumbai,Internet Banking,No
+T00421,A00139,2024-07-17,65384,Debit,Card,Mumbai,ATM,No
+T00422,A00035,2024-08-09,114017,Credit,Net Banking,Hyderabad,Internet Banking,Yes
+T00423,A00255,2025-01-18,31227,Debit,UPI,Hyderabad,POS,Yes
+T00424,A00200,2025-04-23,25470,Debit,Net Banking,Delhi,Internet Banking,Yes
+T00425,A00318,2025-03-12,189633,Credit,UPI,Hyderabad,Internet Banking,No
+T00426,A00469,2025-04-15,64146,Debit,Card,Chennai,Mobile App,Yes
+T00427,A00300,2024-10-29,116929,Debit,ATM,Kolkata,Internet Banking,No
+T00428,A00188,2024-07-08,21722,Credit,Net Banking,Kolkata,POS,Yes
+T00429,A00272,2025-02-09,25297,Credit,Card,Mumbai,Internet Banking,No
+T00430,A00417,2025-04-20,137303,Debit,ATM,Hyderabad,Mobile App,Yes
+T00431,A00213,2024-10-29,22424,Credit,ATM,Hyderabad,POS,No
+T00432,A00111,2025-03-05,83551,Debit,Net Banking,Mumbai,POS,No
+T00433,A00020,2025-06-11,24339,Debit,Card,Bengaluru,POS,No
+T00434,A00309,2024-09-19,173679,Debit,Card,Mumbai,ATM,No
+T00435,A00238,2024-11-01,158468,Debit,Net Banking,Kolkata,Mobile App,No
+T00436,A00462,2024-09-15,145667,Debit,Net Banking,Delhi,Mobile App,Yes
+T00437,A00594,2024-09-12,169382,Credit,ATM,Hyderabad,ATM,No
+T00438,A00426,2024-10-19,96930,Debit,Card,Chennai,Internet Banking,Yes
+T00439,A00517,2024-10-15,182107,Credit,Card,Mumbai,ATM,Yes
+T00440,A00406,2025-01-22,68031,Debit,ATM,Hyderabad,Mobile App,No
+T00441,A00554,2024-10-31,86535,Debit,Net Banking,Kolkata,Mobile App,No
+T00442,A00029,2025-04-26,131499,Credit,Net Banking,Chennai,POS,No
+T00443,A00034,2024-12-18,37199,Debit,UPI,Delhi,ATM,No
+T00444,A00566,2025-03-17,199127,Credit,ATM,Kolkata,Mobile App,Yes
+T00445,A00322,2024-08-14,150395,Credit,Net Banking,Bengaluru,Mobile App,Yes
+T00446,A00145,2024-10-13,81114,Credit,Card,Mumbai,Internet Banking,Yes
+T00447,A00583,2024-08-26,39442,Debit,UPI,Kolkata,POS,No
+T00448,A00288,2024-08-30,4863,Debit,Net Banking,Delhi,ATM,Yes
+T00449,A00391,2024-10-14,49674,Credit,ATM,Delhi,ATM,No
+T00450,A00597,2024-08-13,166803,Debit,Card,Chennai,Internet Banking,Yes
+T00451,A00052,2024-07-05,68198,Credit,UPI,Mumbai,ATM,No
+T00452,A00157,2025-02-26,174355,Debit,UPI,Kolkata,ATM,No
+T00453,A00092,2025-02-02,3255,Credit,Net Banking,Delhi,Internet Banking,Yes
+T00454,A00499,2025-01-15,18034,Credit,ATM,Hyderabad,ATM,No
+T00455,A00449,2024-08-08,95263,Debit,ATM,Chennai,Internet Banking,No
+T00456,A00293,2024-09-18,53434,Debit,Card,Mumbai,ATM,Yes
+T00457,A00066,2025-01-26,85019,Credit,ATM,Hyderabad,POS,Yes
+T00458,A00477,2024-11-13,62797,Debit,UPI,Mumbai,POS,No
+T00459,A00270,2025-01-29,72906,Credit,ATM,Hyderabad,POS,Yes
+T00460,A00193,2024-10-31,108332,Debit,ATM,Chennai,Mobile App,Yes
+T00461,A00039,2024-10-13,107871,Credit,UPI,Kolkata,Internet Banking,No
+T00462,A00310,2024-08-23,7956,Debit,ATM,Delhi,POS,Yes
+T00463,A00213,2025-03-30,117141,Debit,Net Banking,Chennai,Mobile App,Yes
+T00464,A00327,2025-05-08,84419,Credit,Net Banking,Delhi,Mobile App,Yes
+T00465,A00060,2024-10-18,98420,Credit,Card,Delhi,Mobile App,Yes
+T00466,A00159,2025-02-07,150768,Credit,Net Banking,Mumbai,Internet Banking,Yes
+T00467,A00234,2024-10-03,159276,Debit,UPI,Chennai,Mobile App,Yes
+T00468,A00550,2024-09-04,156660,Debit,UPI,Chennai,ATM,Yes
+T00469,A00376,2024-07-27,65736,Debit,UPI,Delhi,ATM,No
+T00470,A00049,2024-10-28,74387,Debit,ATM,Kolkata,Internet Banking,No
+T00471,A00168,2025-02-23,152669,Debit,UPI,Chennai,Mobile App,Yes
+T00472,A00166,2025-06-11,184663,Debit,Net Banking,Mumbai,Mobile App,No
+T00473,A00573,2024-11-08,71753,Debit,Card,Bengaluru,Internet Banking,Yes
+T00474,A00288,2025-01-25,106116,Credit,UPI,Kolkata,ATM,No
+T00475,A00433,2024-12-19,113331,Debit,UPI,Delhi,POS,Yes
+T00476,A00401,2024-07-19,115867,Debit,ATM,Hyderabad,ATM,No
+T00477,A00347,2024-08-19,38968,Credit,Net Banking,Kolkata,Internet Banking,No
+T00478,A00186,2024-07-11,187824,Debit,Card,Kolkata,POS,Yes
+T00479,A00460,2024-12-29,14168,Credit,UPI,Kolkata,POS,Yes
+T00480,A00345,2025-06-15,25132,Credit,UPI,Mumbai,POS,Yes
+T00481,A00164,2025-03-19,15451,Credit,Net Banking,Mumbai,Mobile App,Yes
+T00482,A00204,2024-07-19,144419,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T00483,A00206,2024-08-10,36262,Credit,Net Banking,Delhi,Internet Banking,Yes
+T00484,A00137,2024-11-25,70091,Credit,Card,Chennai,Internet Banking,Yes
+T00485,A00533,2024-07-20,168910,Debit,Card,Chennai,Internet Banking,Yes
+T00486,A00157,2024-08-02,189110,Credit,Net Banking,Hyderabad,POS,No
+T00487,A00240,2024-12-12,4302,Credit,ATM,Kolkata,Mobile App,No
+T00488,A00010,2024-11-29,36611,Credit,ATM,Kolkata,Internet Banking,Yes
+T00489,A00140,2024-09-07,185262,Debit,ATM,Mumbai,ATM,No
+T00490,A00017,2025-03-30,141415,Debit,Net Banking,Kolkata,ATM,No
+T00491,A00138,2025-02-16,24112,Debit,Card,Hyderabad,POS,Yes
+T00492,A00339,2025-06-11,180643,Debit,UPI,Bengaluru,Mobile App,Yes
+T00493,A00411,2025-02-15,133005,Credit,Card,Bengaluru,POS,Yes
+T00494,A00588,2025-03-01,40000,Debit,UPI,Chennai,POS,Yes
+T00495,A00111,2025-05-20,36216,Credit,Card,Hyderabad,Internet Banking,Yes
+T00496,A00221,2025-03-25,171179,Debit,UPI,Chennai,POS,No
+T00497,A00210,2025-03-28,58424,Credit,UPI,Hyderabad,ATM,No
+T00498,A00011,2024-12-20,134668,Debit,UPI,Mumbai,POS,Yes
+T00499,A00236,2025-02-24,117209,Credit,ATM,Bengaluru,ATM,No
+T00500,A00023,2024-11-15,156459,Debit,ATM,Delhi,Mobile App,No
+T00501,A00225,2024-10-29,75855,Debit,Net Banking,Mumbai,Internet Banking,Yes
+T00502,A00203,2024-11-06,395,Debit,UPI,Bengaluru,ATM,No
+T00503,A00260,2025-05-13,39235,Debit,UPI,Bengaluru,POS,No
+T00504,A00419,2024-09-14,102619,Credit,Card,Bengaluru,Internet Banking,No
+T00505,A00480,2025-04-02,36993,Credit,UPI,Mumbai,Mobile App,No
+T00506,A00452,2025-04-20,8929,Debit,UPI,Mumbai,Mobile App,Yes
+T00507,A00070,2025-03-17,139266,Debit,ATM,Delhi,ATM,Yes
+T00508,A00126,2025-05-10,90972,Debit,UPI,Mumbai,Internet Banking,Yes
+T00509,A00439,2025-01-23,131380,Credit,Card,Delhi,POS,Yes
+T00510,A00468,2024-07-30,18457,Credit,UPI,Hyderabad,POS,Yes
+T00511,A00374,2025-06-23,130354,Credit,UPI,Kolkata,ATM,Yes
+T00512,A00011,2025-04-19,68802,Debit,UPI,Hyderabad,Internet Banking,Yes
+T00513,A00449,2025-04-22,180671,Debit,Card,Chennai,Mobile App,No
+T00514,A00438,2024-12-27,85234,Credit,Net Banking,Delhi,ATM,Yes
+T00515,A00146,2025-02-05,35736,Credit,UPI,Chennai,Mobile App,Yes
+T00516,A00490,2024-08-20,122670,Debit,Net Banking,Kolkata,Internet Banking,No
+T00517,A00356,2024-08-05,59711,Debit,ATM,Chennai,Internet Banking,No
+T00518,A00323,2025-05-11,94081,Credit,ATM,Chennai,ATM,Yes
+T00519,A00256,2025-05-07,167131,Debit,UPI,Mumbai,ATM,No
+T00520,A00059,2025-06-22,50602,Credit,ATM,Delhi,Mobile App,No
+T00521,A00178,2025-03-28,107994,Credit,UPI,Hyderabad,POS,Yes
+T00522,A00285,2024-12-28,81777,Debit,UPI,Bengaluru,POS,Yes
+T00523,A00380,2024-08-06,41982,Credit,UPI,Hyderabad,Internet Banking,Yes
+T00524,A00216,2024-12-23,58366,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T00525,A00058,2024-10-28,90393,Credit,Card,Mumbai,ATM,Yes
+T00526,A00081,2025-03-22,119227,Credit,Net Banking,Delhi,Mobile App,No
+T00527,A00178,2025-03-07,4660,Debit,UPI,Chennai,ATM,No
+T00528,A00237,2025-04-01,2307,Credit,Net Banking,Bengaluru,POS,Yes
+T00529,A00596,2025-04-23,77343,Credit,Card,Chennai,ATM,No
+T00530,A00570,2024-12-27,22956,Debit,Card,Kolkata,POS,Yes
+T00531,A00265,2024-12-29,41904,Credit,Card,Kolkata,Internet Banking,No
+T00532,A00500,2024-09-27,162565,Credit,Card,Kolkata,ATM,Yes
+T00533,A00175,2024-09-24,24925,Credit,Net Banking,Mumbai,Internet Banking,No
+T00534,A00241,2024-08-24,146904,Debit,UPI,Delhi,POS,Yes
+T00535,A00030,2025-05-30,36666,Debit,Net Banking,Hyderabad,POS,No
+T00536,A00222,2025-06-12,144714,Credit,Card,Mumbai,Internet Banking,No
+T00537,A00278,2025-02-24,183920,Credit,Net Banking,Bengaluru,Internet Banking,No
+T00538,A00135,2024-10-08,87135,Debit,UPI,Mumbai,POS,No
+T00539,A00048,2025-06-19,28197,Debit,ATM,Chennai,Mobile App,Yes
+T00540,A00131,2024-11-18,144004,Credit,UPI,Hyderabad,POS,Yes
+T00541,A00554,2024-11-29,30559,Credit,ATM,Delhi,Mobile App,Yes
+T00542,A00304,2024-09-09,180092,Credit,UPI,Bengaluru,POS,Yes
+T00543,A00470,2025-03-28,109852,Debit,ATM,Kolkata,Internet Banking,Yes
+T00544,A00070,2025-06-21,18304,Credit,UPI,Hyderabad,Mobile App,Yes
+T00545,A00596,2025-03-15,164816,Credit,Net Banking,Hyderabad,Mobile App,Yes
+T00546,A00017,2024-11-05,46418,Credit,ATM,Kolkata,Mobile App,No
+T00547,A00094,2025-05-02,165656,Credit,UPI,Hyderabad,POS,Yes
+T00548,A00466,2025-05-30,85916,Debit,UPI,Bengaluru,POS,Yes
+T00549,A00167,2025-06-07,90789,Debit,Card,Bengaluru,Internet Banking,No
+T00550,A00168,2024-11-03,148070,Debit,ATM,Hyderabad,Internet Banking,No
+T00551,A00136,2024-12-23,4792,Debit,UPI,Mumbai,Mobile App,Yes
+T00552,A00300,2025-01-05,75299,Credit,UPI,Chennai,ATM,Yes
+T00553,A00054,2024-07-11,174572,Debit,ATM,Hyderabad,Internet Banking,No
+T00554,A00383,2024-07-25,104323,Credit,UPI,Hyderabad,Internet Banking,Yes
+T00555,A00060,2024-12-31,30095,Credit,Net Banking,Delhi,Mobile App,No
+T00556,A00450,2024-08-12,8411,Credit,Net Banking,Delhi,Internet Banking,No
+T00557,A00424,2024-11-13,16046,Credit,UPI,Kolkata,ATM,No
+T00558,A00266,2025-01-01,121904,Credit,Card,Chennai,Internet Banking,Yes
+T00559,A00560,2024-12-26,157809,Debit,UPI,Chennai,ATM,Yes
+T00560,A00474,2025-05-24,45422,Debit,Net Banking,Mumbai,Mobile App,No
+T00561,A00105,2024-09-04,57526,Credit,Card,Mumbai,POS,Yes
+T00562,A00488,2024-10-17,14617,Credit,ATM,Mumbai,Internet Banking,No
+T00563,A00508,2025-04-24,69437,Credit,UPI,Delhi,ATM,No
+T00564,A00329,2024-11-12,111896,Debit,Net Banking,Chennai,ATM,No
+T00565,A00267,2025-02-19,107159,Debit,UPI,Hyderabad,Internet Banking,No
+T00566,A00424,2025-02-08,6268,Debit,Card,Delhi,POS,No
+T00567,A00109,2024-08-18,14198,Credit,UPI,Kolkata,Internet Banking,Yes
+T00568,A00188,2025-01-13,22448,Debit,UPI,Delhi,POS,No
+T00569,A00271,2024-08-08,33598,Credit,Net Banking,Mumbai,POS,No
+T00570,A00052,2024-12-04,147308,Debit,ATM,Mumbai,POS,Yes
+T00571,A00396,2025-05-13,63618,Debit,Card,Bengaluru,Internet Banking,Yes
+T00572,A00369,2025-04-03,137036,Credit,Card,Mumbai,POS,Yes
+T00573,A00555,2025-05-05,37671,Debit,Net Banking,Delhi,Internet Banking,No
+T00574,A00233,2024-08-10,120235,Debit,ATM,Delhi,Mobile App,Yes
+T00575,A00550,2024-11-03,22818,Credit,UPI,Bengaluru,POS,Yes
+T00576,A00452,2025-01-31,7865,Credit,Net Banking,Kolkata,Mobile App,Yes
+T00577,A00158,2025-03-09,23622,Credit,ATM,Mumbai,Internet Banking,No
+T00578,A00481,2024-07-27,189736,Debit,ATM,Mumbai,Internet Banking,No
+T00579,A00152,2025-05-03,195564,Credit,Card,Chennai,Internet Banking,Yes
+T00580,A00348,2024-10-25,46179,Credit,ATM,Bengaluru,Internet Banking,Yes
+T00581,A00518,2025-01-22,52660,Debit,ATM,Delhi,ATM,No
+T00582,A00066,2024-12-26,33432,Debit,Card,Delhi,Internet Banking,No
+T00583,A00185,2024-12-02,148944,Credit,ATM,Mumbai,ATM,No
+T00584,A00160,2025-02-14,192777,Credit,Net Banking,Mumbai,POS,Yes
+T00585,A00325,2024-12-07,164502,Debit,UPI,Delhi,POS,No
+T00586,A00042,2024-09-30,112092,Debit,Net Banking,Chennai,POS,No
+T00587,A00599,2025-02-26,18094,Debit,UPI,Hyderabad,Mobile App,No
+T00588,A00352,2024-10-02,92072,Credit,UPI,Chennai,Internet Banking,Yes
+T00589,A00395,2025-01-28,23580,Credit,ATM,Delhi,POS,No
+T00590,A00404,2024-08-30,32892,Credit,Card,Bengaluru,ATM,Yes
+T00591,A00547,2025-01-03,7797,Credit,UPI,Delhi,ATM,No
+T00592,A00289,2024-11-26,171768,Credit,ATM,Delhi,Mobile App,No
+T00593,A00261,2024-07-25,69434,Credit,UPI,Mumbai,Internet Banking,Yes
+T00594,A00520,2024-11-09,139652,Debit,Card,Chennai,Mobile App,Yes
+T00595,A00151,2024-09-18,187619,Credit,Net Banking,Hyderabad,POS,No
+T00596,A00254,2025-05-12,98210,Credit,Net Banking,Delhi,POS,Yes
+T00597,A00498,2025-03-26,3122,Debit,Net Banking,Hyderabad,ATM,Yes
+T00598,A00256,2025-02-14,130584,Credit,UPI,Hyderabad,Internet Banking,Yes
+T00599,A00193,2024-12-14,192888,Debit,Card,Mumbai,Mobile App,No
+T00600,A00463,2025-04-30,112660,Debit,Card,Hyderabad,Internet Banking,No
+T00601,A00588,2024-12-16,114191,Credit,UPI,Kolkata,ATM,Yes
+T00602,A00079,2025-02-05,197082,Debit,UPI,Chennai,Internet Banking,No
+T00603,A00191,2025-05-01,85323,Debit,Net Banking,Mumbai,POS,Yes
+T00604,A00103,2024-11-09,58922,Credit,UPI,Hyderabad,POS,Yes
+T00605,A00134,2025-01-27,191599,Debit,Card,Hyderabad,Mobile App,No
+T00606,A00087,2025-03-26,197735,Debit,Net Banking,Kolkata,Mobile App,Yes
+T00607,A00089,2024-09-29,67877,Credit,Card,Delhi,Mobile App,No
+T00608,A00049,2024-09-05,81903,Debit,UPI,Kolkata,Mobile App,No
+T00609,A00123,2025-03-14,100195,Debit,ATM,Mumbai,Mobile App,Yes
+T00610,A00544,2025-03-17,190260,Debit,ATM,Delhi,Internet Banking,Yes
+T00611,A00469,2024-07-30,12159,Debit,Net Banking,Chennai,Internet Banking,Yes
+T00612,A00526,2025-04-13,80174,Debit,ATM,Chennai,POS,Yes
+T00613,A00043,2025-06-26,171828,Credit,UPI,Hyderabad,POS,No
+T00614,A00242,2025-04-02,46684,Debit,ATM,Hyderabad,ATM,No
+T00615,A00355,2025-02-07,37934,Debit,Card,Hyderabad,Internet Banking,Yes
+T00616,A00567,2025-05-20,115392,Debit,Card,Mumbai,Internet Banking,Yes
+T00617,A00426,2025-01-04,109928,Debit,Card,Hyderabad,ATM,Yes
+T00618,A00052,2024-08-13,57447,Credit,Net Banking,Hyderabad,Mobile App,No
+T00619,A00076,2025-02-14,166302,Credit,Card,Kolkata,Internet Banking,No
+T00620,A00466,2025-02-16,78702,Debit,Net Banking,Delhi,POS,No
+T00621,A00051,2024-12-26,100453,Credit,ATM,Hyderabad,ATM,No
+T00622,A00497,2024-11-03,6693,Credit,Card,Kolkata,ATM,Yes
+T00623,A00299,2025-01-31,28168,Debit,UPI,Chennai,Internet Banking,No
+T00624,A00037,2024-08-06,163163,Debit,UPI,Mumbai,Internet Banking,Yes
+T00625,A00231,2025-05-15,23198,Credit,Net Banking,Kolkata,POS,No
+T00626,A00155,2024-12-19,87366,Debit,Card,Hyderabad,Internet Banking,No
+T00627,A00361,2024-09-06,62122,Debit,Card,Chennai,POS,No
+T00628,A00107,2024-10-27,1894,Credit,ATM,Chennai,Internet Banking,No
+T00629,A00258,2024-12-04,96031,Debit,UPI,Hyderabad,Mobile App,Yes
+T00630,A00364,2024-07-27,130967,Debit,ATM,Bengaluru,ATM,Yes
+T00631,A00183,2025-02-17,188628,Credit,Card,Hyderabad,Internet Banking,No
+T00632,A00326,2024-08-11,195009,Debit,Card,Kolkata,Internet Banking,No
+T00633,A00113,2025-03-23,164181,Debit,ATM,Kolkata,POS,No
+T00634,A00506,2025-05-12,53828,Debit,ATM,Kolkata,Internet Banking,Yes
+T00635,A00105,2025-02-16,191960,Credit,Card,Delhi,Mobile App,Yes
+T00636,A00177,2025-04-25,81135,Credit,Net Banking,Mumbai,POS,Yes
+T00637,A00180,2025-05-14,129027,Debit,UPI,Mumbai,Internet Banking,No
+T00638,A00146,2024-11-24,39133,Credit,UPI,Mumbai,Internet Banking,Yes
+T00639,A00505,2024-11-04,68119,Debit,Card,Bengaluru,POS,No
+T00640,A00398,2025-01-07,61671,Debit,UPI,Delhi,ATM,No
+T00641,A00261,2025-03-07,91777,Credit,Card,Mumbai,Internet Banking,Yes
+T00642,A00256,2025-03-13,146463,Credit,ATM,Bengaluru,ATM,Yes
+T00643,A00226,2024-07-23,110686,Credit,ATM,Hyderabad,ATM,No
+T00644,A00571,2024-08-04,21877,Credit,Card,Hyderabad,ATM,Yes
+T00645,A00466,2024-09-22,128857,Debit,ATM,Mumbai,Internet Banking,No
+T00646,A00187,2025-05-13,107535,Debit,Net Banking,Mumbai,Internet Banking,No
+T00647,A00168,2024-08-22,140283,Credit,Card,Kolkata,Internet Banking,No
+T00648,A00022,2025-06-09,44422,Debit,Card,Mumbai,Mobile App,No
+T00649,A00370,2025-02-10,42877,Credit,Card,Kolkata,Internet Banking,Yes
+T00650,A00297,2025-06-15,83422,Debit,Net Banking,Mumbai,POS,Yes
+T00651,A00154,2025-04-19,198506,Debit,Net Banking,Kolkata,Internet Banking,Yes
+T00652,A00148,2025-03-04,26722,Debit,ATM,Delhi,POS,No
+T00653,A00116,2025-05-10,196564,Debit,UPI,Bengaluru,Internet Banking,No
+T00654,A00385,2024-06-30,178197,Credit,ATM,Chennai,Mobile App,Yes
+T00655,A00181,2025-04-20,33187,Debit,Net Banking,Bengaluru,POS,Yes
+T00656,A00386,2024-08-25,120384,Debit,ATM,Mumbai,POS,Yes
+T00657,A00329,2025-03-13,175258,Credit,ATM,Hyderabad,Mobile App,Yes
+T00658,A00267,2024-08-26,48143,Credit,Net Banking,Hyderabad,ATM,Yes
+T00659,A00392,2024-12-22,103447,Credit,Card,Chennai,Internet Banking,Yes
+T00660,A00197,2025-01-22,118867,Debit,ATM,Chennai,Mobile App,No
+T00661,A00200,2024-10-21,1094,Credit,Card,Bengaluru,ATM,No
+T00662,A00002,2024-11-28,133632,Credit,UPI,Mumbai,POS,Yes
+T00663,A00553,2025-02-24,102856,Debit,Card,Delhi,ATM,Yes
+T00664,A00201,2025-02-09,109756,Debit,ATM,Delhi,ATM,Yes
+T00665,A00208,2024-12-20,184542,Credit,UPI,Kolkata,ATM,Yes
+T00666,A00297,2024-09-13,101661,Credit,ATM,Mumbai,Internet Banking,No
+T00667,A00302,2024-09-17,92134,Debit,UPI,Chennai,POS,Yes
+T00668,A00310,2025-03-21,183283,Debit,UPI,Bengaluru,Mobile App,No
+T00669,A00454,2025-06-05,105007,Debit,UPI,Mumbai,Internet Banking,Yes
+T00670,A00019,2024-10-30,40114,Credit,Card,Mumbai,Mobile App,Yes
+T00671,A00313,2024-10-24,34184,Credit,Card,Chennai,POS,Yes
+T00672,A00515,2025-02-06,72467,Debit,UPI,Mumbai,Mobile App,Yes
+T00673,A00532,2025-05-04,20177,Debit,Net Banking,Chennai,Internet Banking,No
+T00674,A00512,2025-06-19,162996,Credit,UPI,Bengaluru,POS,Yes
+T00675,A00521,2025-03-20,115949,Credit,ATM,Hyderabad,POS,Yes
+T00676,A00595,2024-10-26,107256,Credit,ATM,Bengaluru,Mobile App,Yes
+T00677,A00339,2025-06-21,143172,Debit,Net Banking,Bengaluru,Internet Banking,No
+T00678,A00013,2025-06-28,115967,Credit,Card,Bengaluru,POS,Yes
+T00679,A00278,2024-12-15,133960,Credit,UPI,Bengaluru,POS,No
+T00680,A00476,2025-04-04,70764,Credit,ATM,Kolkata,ATM,No
+T00681,A00022,2025-06-20,163558,Debit,UPI,Chennai,Internet Banking,No
+T00682,A00171,2024-11-10,77026,Credit,UPI,Kolkata,Mobile App,No
+T00683,A00011,2024-08-03,124174,Debit,UPI,Delhi,Internet Banking,Yes
+T00684,A00384,2025-02-11,122542,Credit,ATM,Chennai,Internet Banking,Yes
+T00685,A00387,2024-07-03,21207,Debit,ATM,Kolkata,Internet Banking,Yes
+T00686,A00520,2025-02-22,173741,Credit,UPI,Bengaluru,Mobile App,No
+T00687,A00358,2025-01-14,41949,Credit,Card,Bengaluru,ATM,Yes
+T00688,A00074,2024-12-03,151666,Credit,UPI,Kolkata,POS,Yes
+T00689,A00321,2025-05-25,15852,Debit,ATM,Mumbai,Internet Banking,Yes
+T00690,A00195,2024-08-18,167639,Debit,Net Banking,Chennai,Internet Banking,No
+T00691,A00459,2025-05-27,54545,Credit,Net Banking,Delhi,POS,Yes
+T00692,A00509,2024-10-22,94892,Debit,UPI,Kolkata,Mobile App,No
+T00693,A00264,2024-07-24,4043,Debit,ATM,Kolkata,Mobile App,Yes
+T00694,A00187,2024-11-20,9668,Debit,ATM,Kolkata,POS,No
+T00695,A00407,2025-06-14,108308,Credit,Net Banking,Mumbai,Mobile App,No
+T00696,A00438,2025-01-29,28635,Credit,Net Banking,Delhi,ATM,Yes
+T00697,A00215,2024-07-20,133861,Credit,UPI,Kolkata,POS,No
+T00698,A00164,2024-06-30,79610,Debit,UPI,Kolkata,Mobile App,Yes
+T00699,A00325,2025-03-30,131328,Debit,Card,Hyderabad,Mobile App,No
+T00700,A00425,2025-02-02,148375,Debit,Net Banking,Hyderabad,Mobile App,No
+T00701,A00239,2025-05-14,126813,Credit,Net Banking,Mumbai,POS,Yes
+T00702,A00275,2024-11-16,79093,Credit,Net Banking,Hyderabad,Internet Banking,No
+T00703,A00190,2024-08-11,38261,Credit,Net Banking,Hyderabad,Mobile App,No
+T00704,A00464,2025-05-30,33013,Debit,Net Banking,Chennai,Mobile App,Yes
+T00705,A00510,2024-10-17,61780,Debit,Net Banking,Chennai,Mobile App,Yes
+T00706,A00486,2025-06-01,82205,Debit,Net Banking,Kolkata,POS,No
+T00707,A00327,2024-07-12,71370,Credit,Net Banking,Delhi,Mobile App,No
+T00708,A00175,2024-09-29,55012,Credit,Card,Kolkata,POS,No
+T00709,A00164,2024-12-14,80735,Debit,UPI,Delhi,POS,Yes
+T00710,A00368,2025-03-29,14163,Debit,Card,Chennai,Internet Banking,Yes
+T00711,A00581,2025-02-14,80640,Credit,ATM,Bengaluru,Mobile App,Yes
+T00712,A00158,2024-11-30,190431,Debit,Card,Kolkata,POS,No
+T00713,A00018,2025-02-27,110010,Debit,Net Banking,Mumbai,POS,Yes
+T00714,A00429,2024-10-31,193803,Debit,Net Banking,Delhi,ATM,Yes
+T00715,A00083,2025-04-02,197730,Debit,Card,Hyderabad,Internet Banking,Yes
+T00716,A00409,2024-11-25,99296,Credit,Card,Kolkata,Internet Banking,No
+T00717,A00358,2024-12-04,143672,Debit,UPI,Kolkata,Mobile App,No
+T00718,A00556,2024-11-25,40040,Debit,UPI,Kolkata,POS,Yes
+T00719,A00086,2024-12-16,29057,Credit,Card,Chennai,ATM,Yes
+T00720,A00146,2025-01-27,39635,Debit,UPI,Delhi,Mobile App,No
+T00721,A00138,2024-09-20,22875,Debit,UPI,Mumbai,Internet Banking,Yes
+T00722,A00029,2025-03-14,88253,Credit,Card,Bengaluru,ATM,Yes
+T00723,A00378,2024-09-05,167137,Debit,ATM,Bengaluru,POS,Yes
+T00724,A00587,2024-12-31,113562,Debit,UPI,Kolkata,POS,Yes
+T00725,A00162,2024-08-23,66364,Credit,Net Banking,Delhi,POS,Yes
+T00726,A00155,2024-09-11,158592,Debit,Card,Kolkata,ATM,No
+T00727,A00293,2025-01-31,193629,Credit,UPI,Mumbai,Internet Banking,Yes
+T00728,A00120,2024-11-26,197025,Credit,UPI,Delhi,ATM,No
+T00729,A00074,2025-05-23,93496,Credit,Net Banking,Chennai,POS,Yes
+T00730,A00331,2025-06-24,42993,Credit,Card,Chennai,POS,Yes
+T00731,A00421,2024-11-16,93663,Credit,UPI,Kolkata,ATM,Yes
+T00732,A00224,2025-05-22,67412,Debit,Card,Hyderabad,Internet Banking,No
+T00733,A00044,2024-12-09,150788,Credit,Net Banking,Bengaluru,Internet Banking,Yes
+T00734,A00156,2024-08-28,45206,Credit,Card,Mumbai,POS,Yes
+T00735,A00326,2024-10-20,4606,Credit,ATM,Delhi,Mobile App,Yes
+T00736,A00324,2025-06-03,104870,Debit,Net Banking,Hyderabad,POS,Yes
+T00737,A00596,2025-03-17,173095,Credit,Net Banking,Delhi,Mobile App,Yes
+T00738,A00412,2024-08-17,181230,Credit,Net Banking,Delhi,POS,No
+T00739,A00239,2024-08-21,72559,Debit,UPI,Hyderabad,ATM,Yes
+T00740,A00447,2024-07-04,74301,Debit,ATM,Hyderabad,ATM,No
+T00741,A00251,2024-07-27,168610,Credit,Card,Hyderabad,ATM,Yes
+T00742,A00475,2025-03-08,23153,Debit,UPI,Bengaluru,Internet Banking,No
+T00743,A00158,2024-07-06,32533,Debit,Card,Hyderabad,Mobile App,No
+T00744,A00419,2024-08-24,26596,Credit,ATM,Kolkata,ATM,Yes
+T00745,A00177,2025-04-06,175888,Credit,UPI,Mumbai,ATM,Yes
+T00746,A00304,2025-06-08,186289,Credit,ATM,Bengaluru,Internet Banking,No
+T00747,A00185,2025-01-05,160652,Debit,Net Banking,Bengaluru,Mobile App,Yes
+T00748,A00044,2025-03-12,129352,Debit,UPI,Kolkata,ATM,Yes
+T00749,A00442,2024-12-16,51366,Credit,Net Banking,Kolkata,Mobile App,Yes
+T00750,A00387,2024-08-21,143414,Debit,UPI,Delhi,Mobile App,No
+T00751,A00078,2024-08-01,144392,Credit,UPI,Kolkata,Internet Banking,No
+T00752,A00344,2024-08-22,21152,Debit,UPI,Kolkata,ATM,Yes
+T00753,A00266,2025-03-06,139349,Credit,Card,Delhi,Mobile App,Yes
+T00754,A00527,2025-05-08,38570,Debit,UPI,Hyderabad,POS,No
+T00755,A00028,2024-12-08,121629,Debit,Card,Delhi,Internet Banking,No
+T00756,A00565,2025-05-30,65394,Credit,Card,Mumbai,ATM,No
+T00757,A00348,2024-12-24,760,Debit,Net Banking,Bengaluru,POS,No
+T00758,A00100,2025-06-12,175393,Credit,Card,Hyderabad,Internet Banking,No
+T00759,A00200,2025-05-02,112568,Credit,UPI,Mumbai,ATM,Yes
+T00760,A00210,2025-03-27,61311,Credit,Card,Mumbai,POS,Yes
+T00761,A00110,2025-02-19,80505,Debit,Net Banking,Kolkata,POS,Yes
+T00762,A00229,2025-06-26,59173,Credit,UPI,Kolkata,ATM,Yes
+T00763,A00552,2024-12-12,88537,Debit,Card,Mumbai,Internet Banking,No
+T00764,A00042,2025-02-27,177615,Debit,Card,Hyderabad,POS,No
+T00765,A00045,2024-09-07,153915,Credit,ATM,Bengaluru,POS,No
+T00766,A00280,2024-12-23,75466,Debit,ATM,Delhi,POS,No
+T00767,A00588,2025-01-13,131288,Credit,ATM,Hyderabad,Mobile App,Yes
+T00768,A00548,2024-12-11,131877,Credit,Card,Hyderabad,Internet Banking,Yes
+T00769,A00230,2025-01-30,46963,Debit,Net Banking,Mumbai,Mobile App,No
+T00770,A00161,2025-05-14,189896,Debit,UPI,Bengaluru,ATM,Yes
+T00771,A00066,2024-12-21,17079,Credit,Net Banking,Delhi,Mobile App,No
+T00772,A00086,2024-11-26,138573,Credit,UPI,Bengaluru,Mobile App,No
+T00773,A00182,2024-11-14,135580,Credit,Net Banking,Chennai,POS,No
+T00774,A00156,2024-09-25,72773,Credit,UPI,Delhi,ATM,No
+T00775,A00097,2024-09-10,153896,Credit,ATM,Mumbai,Internet Banking,Yes
+T00776,A00178,2024-12-11,110141,Credit,Net Banking,Chennai,POS,Yes
+T00777,A00079,2025-02-19,140829,Debit,Card,Kolkata,Internet Banking,No
+T00778,A00382,2024-07-02,6181,Debit,ATM,Chennai,ATM,No
+T00779,A00304,2025-02-09,106308,Credit,UPI,Hyderabad,POS,No
+T00780,A00524,2025-01-09,106308,Debit,Net Banking,Kolkata,Mobile App,Yes
+T00781,A00116,2025-05-24,68171,Credit,ATM,Delhi,ATM,Yes
+T00782,A00382,2025-04-09,4893,Credit,UPI,Kolkata,Internet Banking,No
+T00783,A00552,2024-09-29,91146,Debit,Net Banking,Bengaluru,ATM,Yes
+T00784,A00158,2025-04-02,25879,Debit,UPI,Kolkata,POS,No
+T00785,A00446,2025-01-10,26512,Credit,Net Banking,Mumbai,ATM,No
+T00786,A00557,2024-10-12,11566,Debit,ATM,Bengaluru,POS,No
+T00787,A00428,2024-12-06,47743,Debit,Card,Kolkata,Internet Banking,Yes
+T00788,A00549,2025-06-24,23983,Debit,Net Banking,Bengaluru,Mobile App,No
+T00789,A00512,2025-01-28,42304,Credit,ATM,Kolkata,ATM,Yes
+T00790,A00412,2025-02-08,97373,Credit,UPI,Chennai,POS,Yes
+T00791,A00306,2024-11-19,81627,Credit,Card,Chennai,POS,Yes
+T00792,A00009,2024-07-12,51499,Debit,Card,Kolkata,Mobile App,No
+T00793,A00107,2024-07-14,172200,Credit,Card,Chennai,Mobile App,Yes
+T00794,A00597,2025-02-05,196642,Debit,Card,Chennai,ATM,Yes
+T00795,A00113,2025-01-03,73229,Debit,ATM,Kolkata,ATM,No
+T00796,A00544,2025-03-30,21664,Debit,Card,Mumbai,ATM,Yes
+T00797,A00335,2024-11-20,190470,Debit,Card,Delhi,ATM,No
+T00798,A00269,2024-08-12,48986,Debit,UPI,Kolkata,Mobile App,Yes
+T00799,A00570,2025-02-10,64884,Debit,Card,Chennai,Internet Banking,No
+T00800,A00551,2025-01-03,7782,Debit,Net Banking,Chennai,ATM,No
+T00801,A00060,2025-03-25,31154,Credit,UPI,Delhi,Internet Banking,Yes
+T00802,A00399,2024-07-31,185759,Credit,ATM,Mumbai,ATM,Yes
+T00803,A00317,2024-08-24,105337,Debit,ATM,Mumbai,POS,Yes
+T00804,A00313,2025-04-09,13458,Debit,UPI,Bengaluru,Mobile App,No
+T00805,A00137,2025-04-10,81615,Debit,Card,Chennai,Mobile App,Yes
+T00806,A00001,2025-01-20,160348,Credit,Card,Delhi,POS,No
+T00807,A00044,2025-05-29,195128,Credit,Net Banking,Kolkata,ATM,No
+T00808,A00398,2025-04-17,138483,Credit,ATM,Hyderabad,Internet Banking,Yes
+T00809,A00182,2025-04-28,111218,Debit,UPI,Chennai,Internet Banking,Yes
+T00810,A00584,2024-10-16,1198,Credit,ATM,Hyderabad,POS,Yes
+T00811,A00515,2024-12-27,62940,Debit,UPI,Delhi,Internet Banking,Yes
+T00812,A00510,2025-01-16,130299,Debit,UPI,Kolkata,POS,Yes
+T00813,A00453,2024-07-30,37397,Credit,ATM,Hyderabad,Internet Banking,No
+T00814,A00538,2025-01-19,26440,Credit,Card,Delhi,Internet Banking,Yes
+T00815,A00492,2025-06-10,187147,Debit,ATM,Hyderabad,POS,No
+T00816,A00251,2025-02-21,191460,Credit,ATM,Mumbai,Internet Banking,No
+T00817,A00322,2024-08-03,168359,Debit,Net Banking,Bengaluru,ATM,No
+T00818,A00534,2024-10-03,132544,Credit,Net Banking,Chennai,ATM,Yes
+T00819,A00336,2024-12-30,101038,Credit,ATM,Delhi,Internet Banking,No
+T00820,A00398,2025-03-01,13959,Credit,Card,Hyderabad,Internet Banking,No
+T00821,A00412,2025-04-14,15423,Debit,Card,Delhi,Internet Banking,Yes
+T00822,A00289,2025-03-14,53219,Debit,ATM,Hyderabad,Internet Banking,No
+T00823,A00409,2025-03-16,42870,Debit,UPI,Chennai,Mobile App,No
+T00824,A00319,2024-07-30,16479,Credit,UPI,Mumbai,Mobile App,No
+T00825,A00122,2025-03-22,183303,Credit,ATM,Hyderabad,Mobile App,Yes
+T00826,A00446,2025-03-03,52959,Debit,Card,Hyderabad,Internet Banking,No
+T00827,A00133,2025-01-25,27634,Debit,Net Banking,Delhi,Mobile App,Yes
+T00828,A00223,2025-05-05,155990,Debit,ATM,Kolkata,ATM,No
+T00829,A00304,2025-02-10,117205,Debit,ATM,Mumbai,POS,Yes
+T00830,A00185,2024-10-29,144478,Credit,UPI,Kolkata,POS,Yes
+T00831,A00115,2025-02-23,155348,Credit,Net Banking,Bengaluru,ATM,Yes
+T00832,A00145,2024-07-20,163388,Credit,ATM,Chennai,Mobile App,Yes
+T00833,A00447,2025-06-15,158537,Debit,UPI,Delhi,Internet Banking,No
+T00834,A00149,2024-11-10,13075,Debit,Card,Bengaluru,ATM,Yes
+T00835,A00184,2025-01-23,21119,Credit,UPI,Mumbai,Mobile App,No
+T00836,A00077,2025-04-28,23552,Credit,Net Banking,Mumbai,ATM,No
+T00837,A00198,2024-07-04,72457,Debit,Card,Bengaluru,Mobile App,No
+T00838,A00188,2024-12-29,8602,Credit,Net Banking,Mumbai,ATM,Yes
+T00839,A00018,2024-12-23,3561,Debit,UPI,Kolkata,POS,No
+T00840,A00313,2025-01-15,55112,Debit,Card,Hyderabad,POS,No
+T00841,A00066,2025-06-16,78170,Debit,Net Banking,Hyderabad,Internet Banking,Yes
+T00842,A00047,2024-12-29,124577,Debit,ATM,Delhi,Mobile App,No
+T00843,A00292,2025-02-07,30712,Debit,ATM,Chennai,Internet Banking,Yes
+T00844,A00168,2025-04-10,63198,Credit,Net Banking,Mumbai,POS,Yes
+T00845,A00260,2024-11-05,28133,Debit,ATM,Mumbai,Mobile App,Yes
+T00846,A00545,2024-12-10,196763,Debit,Card,Chennai,Internet Banking,No
+T00847,A00223,2024-11-14,180942,Debit,Card,Kolkata,POS,No
+T00848,A00116,2025-05-05,130223,Debit,Card,Delhi,ATM,Yes
+T00849,A00289,2024-10-22,196062,Debit,ATM,Delhi,ATM,Yes
+T00850,A00498,2024-10-20,26026,Credit,ATM,Chennai,Mobile App,Yes
+T00851,A00524,2024-09-03,154684,Credit,Net Banking,Delhi,Mobile App,No
+T00852,A00582,2024-07-13,122425,Debit,Card,Bengaluru,Internet Banking,No
+T00853,A00115,2025-03-26,199834,Debit,UPI,Kolkata,ATM,Yes
+T00854,A00093,2025-06-23,171078,Credit,Card,Mumbai,ATM,No
+T00855,A00483,2025-02-17,145531,Credit,Net Banking,Chennai,ATM,Yes
+T00856,A00458,2025-04-17,108874,Credit,Net Banking,Delhi,Internet Banking,No
+T00857,A00158,2024-10-26,12050,Debit,Net Banking,Mumbai,Internet Banking,Yes
+T00858,A00417,2025-04-08,196502,Credit,Card,Mumbai,Mobile App,No
+T00859,A00285,2025-04-30,27615,Debit,Net Banking,Chennai,Mobile App,Yes
+T00860,A00590,2025-02-03,165340,Credit,Net Banking,Mumbai,Mobile App,Yes
+T00861,A00540,2024-10-09,198718,Debit,Card,Kolkata,ATM,Yes
+T00862,A00099,2024-07-23,101799,Debit,UPI,Hyderabad,POS,No
+T00863,A00165,2025-03-01,40886,Debit,UPI,Chennai,ATM,No
+T00864,A00527,2024-12-30,199476,Debit,Card,Kolkata,ATM,No
+T00865,A00204,2025-02-09,93103,Credit,UPI,Hyderabad,POS,No
+T00866,A00114,2024-09-03,179339,Debit,ATM,Mumbai,Mobile App,Yes
+T00867,A00563,2025-02-07,187608,Credit,Net Banking,Kolkata,ATM,Yes
+T00868,A00021,2024-07-20,161800,Credit,Card,Bengaluru,Mobile App,No
+T00869,A00059,2025-03-11,197037,Debit,UPI,Hyderabad,POS,No
+T00870,A00225,2024-10-21,13450,Debit,Card,Kolkata,POS,No
+T00871,A00443,2025-05-10,189304,Debit,Card,Chennai,Internet Banking,No
+T00872,A00433,2025-04-12,133092,Credit,Net Banking,Chennai,POS,No
+T00873,A00420,2025-02-27,67830,Debit,ATM,Hyderabad,POS,No
+T00874,A00022,2024-07-10,25926,Credit,UPI,Hyderabad,Mobile App,No
+T00875,A00173,2024-10-19,152624,Debit,Card,Chennai,Mobile App,Yes
+T00876,A00003,2025-01-04,169973,Credit,Card,Hyderabad,POS,Yes
+T00877,A00064,2024-08-01,74783,Credit,Card,Bengaluru,POS,Yes
+T00878,A00006,2024-08-18,166858,Credit,ATM,Chennai,POS,No
+T00879,A00357,2025-01-12,122431,Credit,Card,Kolkata,Mobile App,Yes
+T00880,A00202,2024-07-29,137432,Credit,UPI,Bengaluru,ATM,Yes
+T00881,A00166,2025-05-26,86255,Credit,ATM,Chennai,POS,No
+T00882,A00553,2025-04-30,95693,Credit,Net Banking,Chennai,POS,No
+T00883,A00345,2024-10-15,2570,Debit,ATM,Kolkata,ATM,No
+T00884,A00199,2024-10-05,164906,Debit,ATM,Chennai,Internet Banking,No
+T00885,A00558,2024-08-20,31683,Debit,UPI,Chennai,Mobile App,Yes
+T00886,A00406,2025-02-24,20295,Debit,Net Banking,Mumbai,POS,No
+T00887,A00194,2024-10-17,54110,Credit,Card,Bengaluru,POS,No
+T00888,A00099,2024-10-14,114800,Debit,Net Banking,Delhi,POS,No
+T00889,A00004,2025-05-29,89419,Credit,Card,Delhi,Mobile App,Yes
+T00890,A00330,2024-10-07,58677,Credit,ATM,Mumbai,POS,Yes
+T00891,A00048,2024-07-05,88625,Debit,UPI,Kolkata,ATM,No
+T00892,A00335,2025-04-13,139064,Credit,Net Banking,Mumbai,Mobile App,Yes
+T00893,A00184,2024-08-12,43523,Debit,Net Banking,Mumbai,POS,No
+T00894,A00277,2025-02-19,185217,Credit,Net Banking,Bengaluru,ATM,No
+T00895,A00251,2024-09-05,31394,Credit,Net Banking,Chennai,Mobile App,Yes
+T00896,A00543,2025-06-18,6033,Credit,Card,Kolkata,Internet Banking,Yes
+T00897,A00241,2025-02-14,123975,Credit,Card,Bengaluru,POS,No
+T00898,A00564,2025-04-12,43738,Credit,Card,Kolkata,Mobile App,Yes
+T00899,A00002,2024-08-27,146405,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T00900,A00364,2025-03-12,138639,Credit,Net Banking,Chennai,Mobile App,Yes
+T00901,A00567,2024-12-20,177308,Debit,UPI,Hyderabad,POS,Yes
+T00902,A00166,2024-11-20,116397,Debit,Card,Mumbai,ATM,Yes
+T00903,A00428,2025-05-09,137092,Credit,Net Banking,Chennai,Mobile App,No
+T00904,A00176,2024-09-06,195312,Credit,ATM,Chennai,ATM,No
+T00905,A00579,2024-10-09,1007,Debit,Net Banking,Chennai,ATM,Yes
+T00906,A00064,2025-04-29,123746,Credit,UPI,Hyderabad,POS,Yes
+T00907,A00062,2025-03-29,36171,Debit,Card,Mumbai,Internet Banking,Yes
+T00908,A00462,2024-09-29,122778,Debit,UPI,Mumbai,Internet Banking,No
+T00909,A00408,2025-01-04,157057,Debit,Net Banking,Kolkata,POS,No
+T00910,A00547,2024-09-08,199448,Credit,ATM,Mumbai,Internet Banking,No
+T00911,A00443,2025-05-06,14842,Debit,ATM,Kolkata,POS,Yes
+T00912,A00168,2025-01-20,187548,Credit,Net Banking,Delhi,POS,Yes
+T00913,A00469,2025-05-30,59527,Debit,UPI,Hyderabad,Internet Banking,Yes
+T00914,A00447,2024-07-12,122769,Debit,ATM,Hyderabad,Mobile App,Yes
+T00915,A00250,2024-11-10,29447,Credit,Net Banking,Hyderabad,Mobile App,No
+T00916,A00233,2024-08-01,109021,Credit,UPI,Bengaluru,POS,No
+T00917,A00182,2024-08-25,27830,Credit,ATM,Kolkata,Mobile App,No
+T00918,A00570,2025-02-16,111970,Debit,Card,Delhi,Internet Banking,Yes
+T00919,A00212,2025-06-27,7306,Debit,Net Banking,Mumbai,ATM,Yes
+T00920,A00514,2025-05-15,144941,Credit,Net Banking,Kolkata,Mobile App,Yes
+T00921,A00395,2024-08-28,181047,Credit,Net Banking,Delhi,POS,No
+T00922,A00209,2025-05-21,134313,Debit,UPI,Mumbai,Internet Banking,Yes
+T00923,A00220,2025-01-08,29215,Credit,Card,Delhi,Mobile App,No
+T00924,A00496,2025-04-18,161467,Debit,UPI,Chennai,POS,Yes
+T00925,A00418,2024-12-07,123302,Credit,ATM,Kolkata,Mobile App,No
+T00926,A00086,2025-04-25,40634,Debit,ATM,Bengaluru,ATM,No
+T00927,A00518,2024-11-25,34120,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T00928,A00345,2024-09-30,53263,Credit,UPI,Kolkata,ATM,Yes
+T00929,A00117,2025-03-13,177531,Credit,Card,Delhi,Internet Banking,Yes
+T00930,A00556,2024-12-17,156264,Debit,Net Banking,Hyderabad,Mobile App,No
+T00931,A00413,2025-04-07,198849,Credit,Net Banking,Kolkata,POS,No
+T00932,A00182,2025-03-04,154261,Debit,ATM,Mumbai,Mobile App,Yes
+T00933,A00408,2024-09-02,166231,Credit,ATM,Kolkata,Mobile App,No
+T00934,A00466,2024-09-19,100815,Debit,Net Banking,Chennai,Mobile App,No
+T00935,A00108,2025-02-09,65980,Debit,ATM,Bengaluru,Internet Banking,Yes
+T00936,A00254,2025-04-11,126223,Debit,UPI,Chennai,Mobile App,No
+T00937,A00445,2025-05-22,128658,Credit,ATM,Kolkata,ATM,Yes
+T00938,A00566,2024-11-11,31718,Credit,Net Banking,Delhi,POS,No
+T00939,A00313,2024-07-21,140471,Debit,Net Banking,Kolkata,ATM,No
+T00940,A00112,2025-03-06,51995,Debit,Card,Chennai,POS,Yes
+T00941,A00001,2024-10-10,127283,Debit,UPI,Chennai,POS,Yes
+T00942,A00077,2025-04-19,88926,Debit,Net Banking,Mumbai,Mobile App,Yes
+T00943,A00195,2025-05-14,59524,Debit,UPI,Mumbai,POS,Yes
+T00944,A00159,2024-08-14,10669,Debit,Net Banking,Chennai,Internet Banking,No
+T00945,A00518,2024-07-20,117385,Debit,Net Banking,Delhi,ATM,Yes
+T00946,A00161,2024-09-03,109997,Debit,UPI,Chennai,Mobile App,No
+T00947,A00206,2024-12-27,146811,Debit,Card,Hyderabad,Internet Banking,No
+T00948,A00232,2024-12-01,27898,Debit,Card,Hyderabad,ATM,No
+T00949,A00157,2024-12-31,1928,Debit,UPI,Chennai,Mobile App,No
+T00950,A00102,2024-10-25,47826,Credit,Net Banking,Hyderabad,ATM,No
+T00951,A00554,2024-12-31,75281,Debit,Net Banking,Chennai,POS,No
+T00952,A00521,2025-04-15,143500,Debit,UPI,Chennai,ATM,No
+T00953,A00230,2025-04-18,4012,Credit,ATM,Mumbai,Internet Banking,No
+T00954,A00358,2025-06-23,176715,Credit,UPI,Kolkata,ATM,No
+T00955,A00192,2025-01-22,189576,Debit,UPI,Chennai,POS,Yes
+T00956,A00473,2024-09-28,187878,Debit,UPI,Delhi,Mobile App,Yes
+T00957,A00065,2024-11-24,144027,Credit,Net Banking,Hyderabad,ATM,No
+T00958,A00542,2025-03-22,96132,Credit,Net Banking,Mumbai,ATM,No
+T00959,A00489,2025-03-31,92347,Credit,Net Banking,Mumbai,Mobile App,Yes
+T00960,A00334,2024-11-28,122133,Credit,Card,Delhi,POS,No
+T00961,A00021,2024-12-31,131303,Debit,Net Banking,Hyderabad,Mobile App,Yes
+T00962,A00416,2024-10-09,8351,Debit,ATM,Mumbai,POS,No
+T00963,A00494,2024-08-25,3961,Debit,ATM,Kolkata,Internet Banking,No
+T00964,A00505,2025-01-22,44590,Credit,UPI,Mumbai,Internet Banking,No
+T00965,A00395,2025-06-02,170842,Debit,UPI,Kolkata,Mobile App,Yes
+T00966,A00098,2024-12-15,67443,Debit,UPI,Kolkata,ATM,No
+T00967,A00045,2024-07-04,175508,Credit,UPI,Bengaluru,ATM,No
+T00968,A00433,2024-10-20,76950,Debit,UPI,Delhi,ATM,No
+T00969,A00380,2025-06-25,50996,Debit,Net Banking,Hyderabad,Internet Banking,Yes
+T00970,A00596,2025-05-05,35477,Credit,Card,Hyderabad,ATM,No
+T00971,A00172,2024-12-21,56011,Credit,ATM,Delhi,Internet Banking,Yes
+T00972,A00007,2024-11-25,103715,Credit,UPI,Mumbai,ATM,No
+T00973,A00552,2025-03-20,48917,Credit,ATM,Kolkata,Mobile App,Yes
+T00974,A00536,2024-10-30,42637,Credit,Net Banking,Delhi,Mobile App,No
+T00975,A00103,2025-01-21,31961,Credit,Net Banking,Hyderabad,POS,Yes
+T00976,A00273,2025-03-22,102520,Credit,Card,Delhi,Internet Banking,No
+T00977,A00254,2024-07-15,153475,Debit,ATM,Kolkata,POS,Yes
+T00978,A00077,2024-08-06,10074,Debit,Card,Mumbai,ATM,No
+T00979,A00131,2025-06-21,100881,Credit,ATM,Delhi,Internet Banking,No
+T00980,A00479,2025-01-22,158032,Credit,UPI,Mumbai,Mobile App,No
+T00981,A00456,2025-03-04,175445,Credit,Card,Kolkata,POS,No
+T00982,A00420,2024-11-14,100350,Credit,Card,Chennai,Internet Banking,No
+T00983,A00120,2025-05-23,144668,Credit,Card,Chennai,Internet Banking,Yes
+T00984,A00472,2024-12-14,92482,Debit,UPI,Bengaluru,Internet Banking,No
+T00985,A00516,2025-02-22,119609,Debit,ATM,Bengaluru,POS,No
+T00986,A00114,2025-06-21,68147,Debit,Net Banking,Chennai,ATM,No
+T00987,A00361,2025-03-10,104540,Debit,Net Banking,Mumbai,Internet Banking,Yes
+T00988,A00430,2025-05-29,174787,Debit,UPI,Mumbai,Mobile App,No
+T00989,A00594,2024-10-13,123873,Credit,Card,Bengaluru,Mobile App,No
+T00990,A00547,2024-11-07,5322,Credit,Card,Hyderabad,ATM,No
+T00991,A00253,2024-10-12,102056,Credit,Net Banking,Chennai,Mobile App,Yes
+T00992,A00555,2024-10-11,116094,Debit,Net Banking,Mumbai,Internet Banking,No
+T00993,A00307,2025-05-07,178945,Credit,Net Banking,Delhi,Mobile App,Yes
+T00994,A00359,2024-08-07,179049,Credit,UPI,Kolkata,Mobile App,No
+T00995,A00510,2024-10-07,93556,Credit,ATM,Hyderabad,ATM,Yes
+T00996,A00183,2025-03-11,17478,Credit,ATM,Delhi,ATM,Yes
+T00997,A00018,2025-02-11,114638,Credit,ATM,Chennai,ATM,No
+T00998,A00155,2024-11-28,162562,Debit,UPI,Bengaluru,Mobile App,Yes
+T00999,A00401,2024-12-26,181003,Debit,Card,Hyderabad,Internet Banking,No
+T01000,A00386,2025-04-26,31136,Credit,Card,Bengaluru,Internet Banking,No
+T01001,A00378,2025-03-19,64563,Debit,ATM,Bengaluru,POS,No
+T01002,A00409,2025-04-16,151636,Debit,Card,Chennai,Mobile App,Yes
+T01003,A00547,2024-10-01,95697,Credit,ATM,Bengaluru,ATM,Yes
+T01004,A00394,2025-04-11,182809,Credit,Card,Chennai,Internet Banking,No
+T01005,A00175,2025-03-17,196332,Debit,Net Banking,Delhi,POS,Yes
+T01006,A00363,2025-02-13,37334,Credit,ATM,Bengaluru,Mobile App,Yes
+T01007,A00589,2025-04-25,23546,Credit,UPI,Hyderabad,POS,No
+T01008,A00097,2024-09-13,84472,Credit,UPI,Kolkata,POS,Yes
+T01009,A00142,2025-01-17,14496,Debit,Card,Delhi,Mobile App,No
+T01010,A00332,2024-11-08,192985,Debit,Card,Hyderabad,POS,Yes
+T01011,A00459,2025-03-20,30361,Credit,Net Banking,Chennai,Mobile App,Yes
+T01012,A00210,2025-03-25,106680,Debit,UPI,Chennai,ATM,Yes
+T01013,A00316,2024-09-07,78269,Credit,UPI,Chennai,Mobile App,Yes
+T01014,A00520,2024-10-29,38161,Debit,ATM,Mumbai,Internet Banking,No
+T01015,A00580,2025-01-28,101915,Credit,ATM,Delhi,POS,No
+T01016,A00167,2024-07-04,19157,Credit,ATM,Kolkata,POS,Yes
+T01017,A00352,2025-03-18,1256,Debit,ATM,Bengaluru,Mobile App,Yes
+T01018,A00334,2024-07-03,126018,Credit,ATM,Hyderabad,Internet Banking,Yes
+T01019,A00229,2025-05-18,2628,Debit,Card,Delhi,Mobile App,No
+T01020,A00280,2024-07-26,57138,Credit,UPI,Chennai,ATM,No
+T01021,A00446,2024-07-04,51906,Credit,Card,Hyderabad,Internet Banking,Yes
+T01022,A00010,2024-12-06,95514,Debit,Net Banking,Delhi,POS,No
+T01023,A00456,2024-08-06,12268,Credit,ATM,Delhi,Mobile App,Yes
+T01024,A00306,2025-01-19,170173,Credit,ATM,Bengaluru,Internet Banking,Yes
+T01025,A00140,2024-08-09,137117,Debit,UPI,Bengaluru,Mobile App,Yes
+T01026,A00594,2025-03-23,67740,Debit,Net Banking,Mumbai,POS,Yes
+T01027,A00024,2024-12-20,41136,Debit,UPI,Kolkata,Internet Banking,Yes
+T01028,A00456,2024-11-13,74042,Credit,Net Banking,Bengaluru,ATM,No
+T01029,A00275,2024-09-23,55643,Debit,UPI,Mumbai,Internet Banking,No
+T01030,A00487,2025-04-07,184339,Credit,Card,Chennai,ATM,Yes
+T01031,A00147,2024-10-18,196198,Credit,ATM,Hyderabad,ATM,Yes
+T01032,A00422,2024-10-05,182247,Debit,UPI,Hyderabad,POS,No
+T01033,A00434,2024-09-12,29592,Debit,ATM,Delhi,POS,Yes
+T01034,A00312,2024-07-13,162630,Credit,UPI,Bengaluru,Internet Banking,No
+T01035,A00065,2024-07-09,141184,Debit,UPI,Chennai,Mobile App,No
+T01036,A00449,2025-02-25,58330,Debit,Net Banking,Mumbai,POS,Yes
+T01037,A00588,2024-08-04,151589,Debit,Net Banking,Hyderabad,POS,No
+T01038,A00406,2024-07-22,36001,Credit,Net Banking,Hyderabad,POS,No
+T01039,A00497,2025-06-29,75743,Debit,UPI,Bengaluru,POS,Yes
+T01040,A00023,2025-02-15,142137,Debit,UPI,Kolkata,POS,No
+T01041,A00576,2025-03-12,76864,Credit,ATM,Kolkata,Mobile App,Yes
+T01042,A00004,2025-06-12,132060,Credit,ATM,Delhi,Mobile App,Yes
+T01043,A00567,2025-05-20,17390,Debit,ATM,Mumbai,POS,Yes
+T01044,A00469,2024-09-22,57874,Credit,UPI,Hyderabad,Internet Banking,Yes
+T01045,A00315,2025-02-17,6282,Credit,ATM,Delhi,ATM,Yes
+T01046,A00510,2025-03-04,2778,Debit,ATM,Hyderabad,Internet Banking,No
+T01047,A00262,2024-08-16,79117,Credit,ATM,Delhi,Internet Banking,No
+T01048,A00573,2025-03-31,28185,Credit,Net Banking,Kolkata,POS,No
+T01049,A00361,2024-08-15,193716,Debit,Card,Mumbai,ATM,Yes
+T01050,A00585,2024-08-02,111533,Credit,Net Banking,Mumbai,Mobile App,No
+T01051,A00292,2025-05-28,157566,Debit,Net Banking,Hyderabad,POS,No
+T01052,A00416,2025-02-19,19654,Debit,Net Banking,Chennai,ATM,No
+T01053,A00283,2024-08-19,4155,Credit,Net Banking,Kolkata,Mobile App,Yes
+T01054,A00078,2024-11-23,83040,Credit,ATM,Delhi,ATM,Yes
+T01055,A00522,2025-03-11,60034,Debit,UPI,Chennai,ATM,No
+T01056,A00199,2025-04-22,12381,Debit,Card,Chennai,ATM,No
+T01057,A00517,2025-06-14,38729,Debit,Net Banking,Bengaluru,Internet Banking,No
+T01058,A00310,2025-03-08,26559,Credit,UPI,Bengaluru,POS,No
+T01059,A00116,2025-02-04,96647,Credit,Net Banking,Bengaluru,POS,No
+T01060,A00421,2025-05-07,18782,Credit,ATM,Mumbai,Internet Banking,Yes
+T01061,A00474,2024-09-09,98943,Credit,Card,Delhi,POS,Yes
+T01062,A00249,2025-06-12,124951,Debit,Card,Hyderabad,Internet Banking,Yes
+T01063,A00296,2024-08-12,188763,Credit,ATM,Chennai,Internet Banking,Yes
+T01064,A00470,2025-03-27,95711,Credit,Net Banking,Bengaluru,Mobile App,No
+T01065,A00532,2024-09-09,187351,Credit,ATM,Bengaluru,Mobile App,Yes
+T01066,A00352,2024-10-06,144292,Debit,UPI,Delhi,Internet Banking,No
+T01067,A00212,2024-10-22,101847,Debit,UPI,Mumbai,Internet Banking,No
+T01068,A00409,2024-12-28,183151,Credit,Card,Bengaluru,Mobile App,Yes
+T01069,A00596,2025-03-13,76331,Credit,Net Banking,Kolkata,Internet Banking,Yes
+T01070,A00550,2025-06-28,106079,Debit,Card,Delhi,POS,No
+T01071,A00547,2024-07-29,186986,Credit,Net Banking,Mumbai,ATM,No
+T01072,A00110,2025-03-05,64343,Credit,UPI,Chennai,Mobile App,No
+T01073,A00390,2024-12-23,60678,Debit,UPI,Delhi,Mobile App,No
+T01074,A00300,2025-06-23,175145,Debit,UPI,Mumbai,Internet Banking,No
+T01075,A00599,2024-10-15,161178,Credit,Net Banking,Kolkata,POS,No
+T01076,A00547,2025-04-24,86606,Credit,ATM,Chennai,Mobile App,No
+T01077,A00029,2024-12-12,61093,Credit,Card,Kolkata,Internet Banking,Yes
+T01078,A00272,2025-03-25,81327,Credit,Net Banking,Chennai,Internet Banking,Yes
+T01079,A00297,2025-06-15,144266,Debit,Net Banking,Hyderabad,ATM,Yes
+T01080,A00324,2025-03-16,23880,Credit,Net Banking,Hyderabad,POS,Yes
+T01081,A00011,2025-04-24,24603,Credit,UPI,Bengaluru,Mobile App,Yes
+T01082,A00171,2025-04-25,923,Credit,Net Banking,Chennai,POS,Yes
+T01083,A00528,2024-11-02,85520,Debit,Net Banking,Mumbai,Internet Banking,No
+T01084,A00404,2024-10-07,4576,Debit,Card,Hyderabad,Internet Banking,Yes
+T01085,A00011,2024-08-31,31161,Debit,ATM,Chennai,POS,No
+T01086,A00335,2025-04-29,199605,Credit,Card,Kolkata,POS,No
+T01087,A00176,2024-07-28,72487,Credit,ATM,Hyderabad,Mobile App,Yes
+T01088,A00122,2024-10-15,130823,Credit,ATM,Hyderabad,Mobile App,No
+T01089,A00033,2025-04-27,110360,Credit,Net Banking,Bengaluru,Mobile App,No
+T01090,A00168,2024-07-24,68146,Credit,Net Banking,Bengaluru,Mobile App,Yes
+T01091,A00409,2024-11-25,40855,Debit,ATM,Chennai,POS,Yes
+T01092,A00143,2024-11-27,128703,Credit,Card,Chennai,POS,Yes
+T01093,A00470,2024-11-06,132630,Credit,UPI,Kolkata,POS,Yes
+T01094,A00041,2024-07-23,153508,Debit,ATM,Delhi,Internet Banking,Yes
+T01095,A00407,2024-10-08,111376,Debit,Net Banking,Hyderabad,POS,Yes
+T01096,A00410,2025-05-11,32154,Debit,ATM,Bengaluru,Internet Banking,No
+T01097,A00297,2024-10-10,84001,Credit,ATM,Hyderabad,Internet Banking,No
+T01098,A00567,2024-09-07,123952,Credit,Card,Mumbai,Internet Banking,No
+T01099,A00063,2024-12-18,64792,Debit,UPI,Chennai,POS,No
+T01100,A00019,2024-07-26,144753,Credit,Card,Hyderabad,Internet Banking,No
+T01101,A00558,2025-01-06,88432,Debit,Net Banking,Chennai,POS,No
+T01102,A00184,2025-06-25,84235,Debit,Net Banking,Chennai,ATM,Yes
+T01103,A00278,2024-09-15,195255,Debit,UPI,Delhi,POS,Yes
+T01104,A00548,2025-02-22,29241,Debit,UPI,Hyderabad,ATM,No
+T01105,A00259,2024-11-29,35965,Debit,UPI,Mumbai,ATM,No
+T01106,A00368,2024-09-07,143232,Debit,Card,Kolkata,POS,No
+T01107,A00533,2025-03-07,20117,Credit,UPI,Kolkata,ATM,No
+T01108,A00107,2025-01-07,117813,Credit,ATM,Hyderabad,Internet Banking,No
+T01109,A00227,2024-08-11,129252,Credit,Card,Delhi,Internet Banking,No
+T01110,A00001,2024-08-24,86480,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T01111,A00570,2025-01-25,25916,Debit,ATM,Hyderabad,Mobile App,Yes
+T01112,A00553,2025-04-24,35223,Debit,ATM,Mumbai,ATM,No
+T01113,A00587,2024-12-14,61496,Debit,Card,Kolkata,Mobile App,Yes
+T01114,A00569,2024-09-22,155361,Credit,Net Banking,Kolkata,Internet Banking,No
+T01115,A00195,2025-02-23,97647,Debit,ATM,Chennai,POS,No
+T01116,A00043,2025-03-06,147631,Debit,ATM,Mumbai,Internet Banking,Yes
+T01117,A00338,2024-08-10,130582,Debit,Net Banking,Mumbai,POS,No
+T01118,A00495,2025-06-19,132925,Credit,Card,Delhi,Mobile App,No
+T01119,A00313,2024-12-18,25911,Credit,UPI,Delhi,POS,No
+T01120,A00554,2025-04-03,89587,Credit,Net Banking,Chennai,POS,No
+T01121,A00565,2024-10-08,95069,Debit,ATM,Kolkata,ATM,Yes
+T01122,A00243,2024-08-09,68151,Debit,Net Banking,Delhi,POS,Yes
+T01123,A00486,2024-07-13,40670,Debit,Card,Kolkata,Mobile App,Yes
+T01124,A00269,2024-07-28,98765,Credit,Card,Kolkata,ATM,No
+T01125,A00109,2024-07-27,167738,Debit,Card,Mumbai,ATM,No
+T01126,A00567,2025-02-06,12057,Debit,Net Banking,Kolkata,POS,Yes
+T01127,A00356,2025-04-08,199965,Credit,Net Banking,Hyderabad,POS,Yes
+T01128,A00426,2024-10-05,176115,Credit,ATM,Delhi,Mobile App,No
+T01129,A00243,2025-04-27,157008,Credit,Card,Mumbai,POS,No
+T01130,A00015,2024-12-20,121173,Debit,ATM,Kolkata,POS,Yes
+T01131,A00153,2024-07-07,42246,Credit,Card,Hyderabad,POS,Yes
+T01132,A00458,2025-06-13,59628,Debit,ATM,Delhi,POS,Yes
+T01133,A00380,2025-01-09,192605,Credit,ATM,Hyderabad,Internet Banking,Yes
+T01134,A00014,2024-08-26,100593,Credit,ATM,Bengaluru,POS,No
+T01135,A00049,2025-03-10,5044,Debit,Card,Mumbai,Mobile App,No
+T01136,A00001,2025-03-05,40341,Debit,ATM,Hyderabad,ATM,Yes
+T01137,A00218,2024-06-30,77599,Debit,Card,Delhi,POS,No
+T01138,A00048,2025-06-27,76834,Credit,ATM,Bengaluru,ATM,Yes
+T01139,A00354,2024-07-14,114167,Debit,Net Banking,Delhi,POS,Yes
+T01140,A00400,2025-03-15,198904,Debit,Net Banking,Hyderabad,ATM,Yes
+T01141,A00413,2024-11-28,193600,Debit,Card,Delhi,POS,Yes
+T01142,A00105,2024-10-11,97043,Debit,Card,Hyderabad,POS,Yes
+T01143,A00365,2024-08-27,73548,Debit,Card,Delhi,ATM,No
+T01144,A00209,2025-03-28,110947,Debit,UPI,Hyderabad,POS,No
+T01145,A00018,2024-11-05,121361,Debit,UPI,Bengaluru,Mobile App,No
+T01146,A00367,2025-06-16,122931,Credit,Card,Mumbai,Mobile App,Yes
+T01147,A00397,2024-11-28,37153,Debit,ATM,Hyderabad,Mobile App,No
+T01148,A00300,2025-02-08,9715,Debit,Net Banking,Chennai,POS,Yes
+T01149,A00100,2024-07-01,93974,Credit,Card,Chennai,ATM,No
+T01150,A00572,2025-01-16,17049,Debit,UPI,Hyderabad,Internet Banking,Yes
+T01151,A00268,2025-03-31,115847,Debit,ATM,Delhi,Mobile App,No
+T01152,A00579,2025-06-30,26772,Debit,Net Banking,Mumbai,ATM,No
+T01153,A00197,2025-04-25,7260,Credit,ATM,Kolkata,POS,Yes
+T01154,A00449,2025-01-06,120867,Credit,Card,Hyderabad,ATM,Yes
+T01155,A00555,2025-01-01,53465,Debit,ATM,Delhi,ATM,No
+T01156,A00302,2024-12-16,16129,Debit,Card,Delhi,Mobile App,Yes
+T01157,A00443,2024-12-03,131182,Credit,UPI,Hyderabad,POS,Yes
+T01158,A00460,2025-05-23,121694,Credit,Net Banking,Delhi,ATM,Yes
+T01159,A00584,2025-04-08,32213,Debit,UPI,Kolkata,Internet Banking,Yes
+T01160,A00054,2025-04-29,94905,Debit,ATM,Bengaluru,ATM,Yes
+T01161,A00515,2025-05-11,100835,Debit,Net Banking,Bengaluru,ATM,Yes
+T01162,A00492,2025-05-01,69194,Credit,ATM,Mumbai,ATM,No
+T01163,A00020,2024-07-27,197939,Credit,ATM,Mumbai,ATM,No
+T01164,A00122,2025-01-25,171106,Credit,ATM,Chennai,ATM,Yes
+T01165,A00544,2024-09-25,126108,Debit,Net Banking,Mumbai,Mobile App,No
+T01166,A00484,2024-07-01,139444,Credit,Net Banking,Hyderabad,ATM,No
+T01167,A00166,2024-11-26,168191,Credit,Card,Bengaluru,ATM,No
+T01168,A00425,2025-03-24,197399,Credit,UPI,Bengaluru,ATM,Yes
+T01169,A00036,2025-05-13,60361,Debit,ATM,Bengaluru,Internet Banking,Yes
+T01170,A00032,2025-04-28,126231,Credit,Net Banking,Delhi,Internet Banking,No
+T01171,A00116,2025-01-03,174315,Debit,Card,Bengaluru,POS,Yes
+T01172,A00209,2024-08-16,189541,Credit,Card,Chennai,Mobile App,Yes
+T01173,A00438,2025-02-05,16143,Credit,Net Banking,Bengaluru,POS,Yes
+T01174,A00382,2025-01-23,56857,Credit,UPI,Delhi,Mobile App,Yes
+T01175,A00126,2025-06-28,25712,Debit,Net Banking,Hyderabad,POS,Yes
+T01176,A00049,2024-11-16,127679,Debit,UPI,Hyderabad,Internet Banking,Yes
+T01177,A00237,2024-11-06,83474,Debit,Card,Mumbai,ATM,Yes
+T01178,A00278,2025-03-21,80550,Debit,ATM,Delhi,Mobile App,No
+T01179,A00303,2024-10-25,59939,Debit,Card,Hyderabad,POS,Yes
+T01180,A00311,2024-12-02,139056,Debit,UPI,Bengaluru,Internet Banking,Yes
+T01181,A00259,2024-07-21,4280,Credit,Net Banking,Delhi,ATM,Yes
+T01182,A00135,2025-03-02,48783,Credit,Net Banking,Bengaluru,ATM,No
+T01183,A00045,2025-03-08,116046,Debit,Net Banking,Mumbai,Internet Banking,Yes
+T01184,A00403,2024-08-04,77827,Debit,Card,Hyderabad,POS,Yes
+T01185,A00496,2024-11-18,19209,Debit,ATM,Chennai,POS,No
+T01186,A00281,2025-01-23,79192,Debit,ATM,Bengaluru,Internet Banking,Yes
+T01187,A00352,2025-05-27,132025,Credit,UPI,Kolkata,ATM,Yes
+T01188,A00433,2024-11-09,85117,Debit,Card,Kolkata,Internet Banking,Yes
+T01189,A00573,2024-07-31,185089,Debit,Card,Bengaluru,Mobile App,No
+T01190,A00411,2025-05-22,120429,Credit,ATM,Hyderabad,ATM,Yes
+T01191,A00384,2024-12-25,176187,Credit,ATM,Mumbai,Internet Banking,Yes
+T01192,A00169,2025-04-21,47565,Credit,Net Banking,Mumbai,ATM,Yes
+T01193,A00309,2025-04-23,100585,Credit,Card,Hyderabad,POS,Yes
+T01194,A00040,2024-10-20,13157,Debit,UPI,Hyderabad,Mobile App,Yes
+T01195,A00387,2025-03-08,42566,Debit,Card,Chennai,Mobile App,No
+T01196,A00146,2024-09-16,147588,Debit,UPI,Kolkata,POS,No
+T01197,A00130,2024-09-06,45387,Credit,ATM,Hyderabad,Internet Banking,No
+T01198,A00120,2025-01-31,87218,Debit,UPI,Mumbai,Internet Banking,Yes
+T01199,A00332,2024-07-15,68142,Credit,Net Banking,Bengaluru,Internet Banking,No
+T01200,A00353,2024-11-26,197164,Credit,Net Banking,Kolkata,Internet Banking,Yes
+T01201,A00447,2025-03-13,103496,Credit,Net Banking,Bengaluru,POS,No
+T01202,A00490,2024-09-12,179734,Credit,UPI,Mumbai,Internet Banking,No
+T01203,A00141,2024-10-24,138532,Debit,Card,Chennai,ATM,No
+T01204,A00323,2025-03-27,105698,Credit,ATM,Chennai,Mobile App,No
+T01205,A00436,2024-11-28,38766,Debit,Net Banking,Bengaluru,Mobile App,No
+T01206,A00183,2025-06-13,118292,Debit,Net Banking,Mumbai,Mobile App,Yes
+T01207,A00189,2024-08-10,48842,Credit,Net Banking,Bengaluru,Internet Banking,Yes
+T01208,A00186,2025-03-01,145590,Debit,ATM,Kolkata,ATM,Yes
+T01209,A00128,2025-03-24,135417,Debit,Net Banking,Bengaluru,Internet Banking,No
+T01210,A00009,2024-11-16,78810,Credit,UPI,Delhi,Internet Banking,Yes
+T01211,A00340,2025-01-04,12078,Debit,Card,Chennai,Internet Banking,Yes
+T01212,A00242,2024-08-01,117722,Credit,Card,Chennai,ATM,Yes
+T01213,A00221,2025-06-08,109314,Credit,UPI,Chennai,Mobile App,Yes
+T01214,A00302,2025-03-02,112457,Debit,ATM,Hyderabad,Internet Banking,Yes
+T01215,A00451,2024-12-17,65812,Credit,ATM,Mumbai,ATM,Yes
+T01216,A00031,2025-04-11,35779,Debit,ATM,Delhi,POS,No
+T01217,A00265,2024-09-11,2796,Credit,ATM,Kolkata,POS,Yes
+T01218,A00511,2024-08-23,116837,Debit,UPI,Mumbai,Internet Banking,No
+T01219,A00315,2024-07-13,171202,Debit,ATM,Bengaluru,ATM,No
+T01220,A00492,2024-09-12,98993,Credit,Net Banking,Bengaluru,Internet Banking,No
+T01221,A00399,2024-07-09,179194,Credit,ATM,Hyderabad,Internet Banking,No
+T01222,A00311,2025-04-05,54330,Debit,Net Banking,Delhi,Mobile App,No
+T01223,A00555,2025-02-15,37800,Debit,Net Banking,Bengaluru,POS,No
+T01224,A00296,2024-09-30,125466,Credit,ATM,Bengaluru,POS,Yes
+T01225,A00334,2025-01-05,17820,Credit,Net Banking,Mumbai,POS,No
+T01226,A00382,2024-11-27,185280,Debit,UPI,Hyderabad,POS,No
+T01227,A00229,2024-07-24,54239,Credit,UPI,Hyderabad,Mobile App,No
+T01228,A00448,2025-05-03,88772,Credit,UPI,Chennai,ATM,Yes
+T01229,A00335,2025-01-25,54690,Credit,Net Banking,Mumbai,Mobile App,No
+T01230,A00175,2025-03-06,190581,Debit,Net Banking,Chennai,ATM,Yes
+T01231,A00099,2024-10-27,143883,Credit,UPI,Delhi,ATM,No
+T01232,A00238,2025-01-10,105190,Credit,UPI,Kolkata,ATM,No
+T01233,A00548,2025-01-23,124851,Credit,Card,Mumbai,Mobile App,No
+T01234,A00231,2025-05-19,109563,Debit,Card,Hyderabad,ATM,Yes
+T01235,A00321,2025-05-11,181406,Credit,Net Banking,Mumbai,Mobile App,No
+T01236,A00007,2024-12-21,36371,Debit,ATM,Mumbai,POS,No
+T01237,A00501,2024-07-06,93982,Credit,Card,Hyderabad,Mobile App,Yes
+T01238,A00084,2024-07-14,158367,Debit,Net Banking,Delhi,Mobile App,No
+T01239,A00141,2024-11-08,32967,Debit,Net Banking,Bengaluru,Internet Banking,No
+T01240,A00295,2024-07-21,57218,Debit,Net Banking,Kolkata,POS,Yes
+T01241,A00342,2024-11-08,138777,Debit,ATM,Bengaluru,POS,No
+T01242,A00357,2025-05-01,113146,Credit,ATM,Chennai,ATM,No
+T01243,A00224,2025-04-06,189377,Debit,ATM,Bengaluru,ATM,No
+T01244,A00105,2024-07-16,132207,Credit,UPI,Delhi,POS,No
+T01245,A00171,2024-12-04,124666,Credit,Net Banking,Hyderabad,POS,No
+T01246,A00058,2024-08-14,159321,Credit,ATM,Chennai,ATM,No
+T01247,A00004,2024-09-20,13762,Credit,ATM,Chennai,POS,Yes
+T01248,A00256,2025-05-09,106645,Debit,UPI,Delhi,ATM,No
+T01249,A00404,2025-03-10,176214,Credit,Net Banking,Mumbai,Mobile App,Yes
+T01250,A00131,2025-03-16,182049,Credit,ATM,Hyderabad,Internet Banking,No
+T01251,A00190,2025-01-19,8019,Credit,UPI,Delhi,ATM,No
+T01252,A00094,2024-12-25,69108,Credit,Card,Delhi,Internet Banking,No
+T01253,A00070,2025-06-30,135631,Credit,Card,Kolkata,Internet Banking,No
+T01254,A00484,2025-03-20,137284,Debit,Card,Kolkata,POS,No
+T01255,A00243,2025-06-02,103223,Debit,ATM,Hyderabad,ATM,No
+T01256,A00147,2025-06-04,155111,Debit,Net Banking,Kolkata,Mobile App,Yes
+T01257,A00475,2025-01-24,178206,Credit,UPI,Kolkata,POS,No
+T01258,A00507,2024-08-26,61377,Credit,Card,Chennai,POS,Yes
+T01259,A00161,2025-04-13,46333,Debit,ATM,Hyderabad,Internet Banking,Yes
+T01260,A00436,2025-02-09,15182,Credit,Card,Kolkata,Internet Banking,No
+T01261,A00278,2024-09-28,182007,Credit,UPI,Chennai,Mobile App,Yes
+T01262,A00549,2025-06-24,87815,Debit,UPI,Delhi,POS,No
+T01263,A00559,2024-07-27,97228,Credit,Net Banking,Delhi,Mobile App,Yes
+T01264,A00253,2024-07-14,61786,Credit,Net Banking,Chennai,ATM,No
+T01265,A00355,2025-04-11,68180,Debit,Card,Bengaluru,ATM,Yes
+T01266,A00570,2024-08-23,1679,Credit,Card,Delhi,ATM,Yes
+T01267,A00329,2025-01-05,91025,Debit,UPI,Delhi,Mobile App,Yes
+T01268,A00329,2025-03-10,6758,Debit,Net Banking,Chennai,POS,No
+T01269,A00568,2024-07-07,180272,Credit,Card,Kolkata,Mobile App,Yes
+T01270,A00333,2024-12-30,137680,Credit,UPI,Mumbai,Mobile App,No
+T01271,A00176,2025-06-17,158430,Credit,UPI,Chennai,Internet Banking,No
+T01272,A00186,2025-06-21,38055,Debit,UPI,Bengaluru,Mobile App,Yes
+T01273,A00599,2025-02-25,124425,Debit,UPI,Mumbai,Mobile App,No
+T01274,A00313,2024-07-17,52532,Debit,Card,Mumbai,ATM,Yes
+T01275,A00175,2024-10-02,151543,Debit,Card,Hyderabad,POS,Yes
+T01276,A00355,2025-03-29,109707,Credit,ATM,Chennai,Internet Banking,No
+T01277,A00144,2025-03-08,194664,Credit,UPI,Delhi,Internet Banking,Yes
+T01278,A00321,2024-08-19,22069,Debit,ATM,Chennai,Mobile App,No
+T01279,A00104,2024-07-05,85918,Debit,Card,Hyderabad,ATM,Yes
+T01280,A00416,2024-09-04,156385,Debit,UPI,Mumbai,Mobile App,No
+T01281,A00119,2025-03-02,117900,Debit,UPI,Chennai,ATM,Yes
+T01282,A00515,2024-07-19,112576,Debit,Net Banking,Delhi,ATM,No
+T01283,A00336,2025-06-16,67568,Debit,UPI,Bengaluru,Mobile App,No
+T01284,A00501,2024-10-27,2415,Credit,Card,Delhi,Mobile App,No
+T01285,A00378,2025-05-14,82484,Credit,Card,Bengaluru,POS,Yes
+T01286,A00087,2025-05-04,50392,Credit,UPI,Hyderabad,Internet Banking,Yes
+T01287,A00460,2024-08-06,178832,Debit,UPI,Hyderabad,Internet Banking,Yes
+T01288,A00069,2024-12-24,172128,Credit,Card,Delhi,Internet Banking,No
+T01289,A00057,2025-02-22,193527,Debit,UPI,Bengaluru,Internet Banking,No
+T01290,A00345,2024-09-04,84423,Debit,Card,Mumbai,Mobile App,No
+T01291,A00054,2025-05-20,107970,Debit,Net Banking,Kolkata,POS,No
+T01292,A00542,2025-02-14,118125,Debit,UPI,Kolkata,Internet Banking,No
+T01293,A00049,2024-07-24,15244,Credit,Card,Hyderabad,POS,Yes
+T01294,A00372,2025-05-13,193233,Credit,ATM,Delhi,ATM,Yes
+T01295,A00316,2025-05-13,124274,Debit,ATM,Chennai,Mobile App,No
+T01296,A00095,2024-08-10,131222,Debit,Card,Hyderabad,Mobile App,Yes
+T01297,A00265,2024-08-13,156174,Debit,UPI,Delhi,Internet Banking,Yes
+T01298,A00459,2025-01-09,121570,Credit,Net Banking,Bengaluru,POS,Yes
+T01299,A00466,2025-02-16,131122,Credit,Card,Kolkata,POS,No
+T01300,A00315,2025-05-06,186400,Credit,Net Banking,Delhi,ATM,Yes
+T01301,A00276,2025-02-24,88967,Debit,UPI,Delhi,POS,No
+T01302,A00483,2024-09-23,90346,Debit,Card,Bengaluru,Internet Banking,Yes
+T01303,A00236,2024-07-24,66865,Credit,Net Banking,Hyderabad,Mobile App,No
+T01304,A00375,2025-05-08,41724,Credit,ATM,Chennai,Mobile App,No
+T01305,A00220,2024-09-16,114482,Credit,Card,Chennai,Internet Banking,Yes
+T01306,A00366,2024-12-12,20278,Credit,ATM,Chennai,ATM,No
+T01307,A00145,2024-11-08,153898,Debit,Card,Delhi,POS,Yes
+T01308,A00305,2025-05-11,184770,Debit,Card,Delhi,POS,Yes
+T01309,A00449,2025-05-20,7340,Debit,UPI,Bengaluru,Internet Banking,Yes
+T01310,A00542,2025-04-12,63339,Debit,Net Banking,Delhi,Internet Banking,No
+T01311,A00303,2025-03-20,138241,Credit,UPI,Kolkata,ATM,Yes
+T01312,A00115,2024-12-03,68171,Credit,UPI,Bengaluru,Mobile App,No
+T01313,A00473,2024-11-02,38677,Debit,UPI,Mumbai,ATM,Yes
+T01314,A00122,2024-08-15,47529,Credit,ATM,Hyderabad,POS,Yes
+T01315,A00365,2025-03-22,125105,Credit,Card,Chennai,Mobile App,No
+T01316,A00595,2025-02-08,55165,Debit,ATM,Kolkata,POS,Yes
+T01317,A00308,2025-01-28,105597,Credit,Card,Kolkata,Internet Banking,No
+T01318,A00585,2024-08-22,196597,Debit,ATM,Chennai,Internet Banking,No
+T01319,A00471,2024-11-01,34241,Credit,UPI,Bengaluru,ATM,Yes
+T01320,A00205,2025-05-20,119491,Debit,ATM,Hyderabad,ATM,No
+T01321,A00267,2025-05-04,191109,Debit,ATM,Mumbai,Mobile App,Yes
+T01322,A00297,2024-09-20,54165,Credit,Card,Chennai,Internet Banking,Yes
+T01323,A00209,2025-04-22,47354,Credit,UPI,Kolkata,POS,No
+T01324,A00038,2024-07-17,15733,Credit,UPI,Bengaluru,ATM,No
+T01325,A00342,2025-02-15,185217,Credit,UPI,Bengaluru,ATM,Yes
+T01326,A00237,2024-09-05,46254,Credit,Net Banking,Delhi,ATM,Yes
+T01327,A00501,2024-11-07,46090,Credit,ATM,Bengaluru,POS,No
+T01328,A00523,2024-07-24,168780,Credit,UPI,Delhi,Mobile App,No
+T01329,A00548,2024-08-15,38694,Debit,ATM,Hyderabad,POS,Yes
+T01330,A00032,2024-10-14,126491,Credit,Net Banking,Chennai,Mobile App,No
+T01331,A00228,2024-08-23,27176,Credit,ATM,Delhi,Mobile App,Yes
+T01332,A00200,2025-04-20,27996,Credit,UPI,Kolkata,Internet Banking,Yes
+T01333,A00128,2024-12-08,199742,Credit,ATM,Chennai,Internet Banking,No
+T01334,A00543,2024-09-03,19763,Credit,UPI,Delhi,POS,No
+T01335,A00223,2025-03-27,121941,Debit,UPI,Chennai,ATM,No
+T01336,A00432,2024-11-20,97353,Debit,Card,Bengaluru,ATM,No
+T01337,A00086,2025-01-30,170820,Debit,ATM,Bengaluru,ATM,No
+T01338,A00071,2024-09-02,128575,Credit,ATM,Mumbai,POS,Yes
+T01339,A00206,2024-12-17,111754,Debit,ATM,Kolkata,POS,No
+T01340,A00246,2024-10-02,159155,Debit,UPI,Bengaluru,Mobile App,No
+T01341,A00534,2025-06-24,31738,Credit,UPI,Delhi,Internet Banking,Yes
+T01342,A00187,2025-02-11,129027,Debit,ATM,Bengaluru,Internet Banking,Yes
+T01343,A00438,2024-07-15,28046,Debit,ATM,Mumbai,Mobile App,No
+T01344,A00039,2024-08-20,110969,Debit,ATM,Chennai,POS,Yes
+T01345,A00526,2024-08-07,43191,Debit,Card,Bengaluru,Mobile App,Yes
+T01346,A00486,2025-05-03,15096,Credit,Net Banking,Delhi,Mobile App,Yes
+T01347,A00519,2025-05-25,77308,Debit,Net Banking,Chennai,Internet Banking,Yes
+T01348,A00548,2025-03-02,41417,Credit,Net Banking,Hyderabad,Mobile App,Yes
+T01349,A00180,2025-02-22,161787,Credit,ATM,Chennai,Mobile App,No
+T01350,A00571,2024-11-23,142495,Debit,UPI,Chennai,POS,Yes
+T01351,A00070,2025-04-28,97604,Debit,ATM,Bengaluru,POS,Yes
+T01352,A00362,2024-08-30,29989,Debit,UPI,Chennai,POS,No
+T01353,A00179,2024-07-06,75846,Credit,Card,Bengaluru,ATM,No
+T01354,A00492,2025-06-06,70408,Credit,UPI,Kolkata,Mobile App,Yes
+T01355,A00557,2025-01-05,144931,Credit,Card,Hyderabad,ATM,Yes
+T01356,A00487,2024-07-31,106045,Credit,Net Banking,Mumbai,Internet Banking,Yes
+T01357,A00202,2024-07-02,151389,Credit,Card,Delhi,Mobile App,No
+T01358,A00010,2024-07-02,145185,Credit,Net Banking,Chennai,ATM,Yes
+T01359,A00293,2024-09-07,61098,Credit,Card,Kolkata,Mobile App,Yes
+T01360,A00569,2025-06-24,8588,Credit,Card,Chennai,Mobile App,No
+T01361,A00446,2024-08-03,98350,Credit,UPI,Kolkata,ATM,No
+T01362,A00189,2025-03-31,46164,Credit,Card,Bengaluru,Internet Banking,No
+T01363,A00324,2025-03-10,27249,Credit,ATM,Bengaluru,ATM,Yes
+T01364,A00065,2025-02-15,111466,Credit,Card,Delhi,ATM,Yes
+T01365,A00321,2025-06-09,151772,Credit,ATM,Bengaluru,ATM,Yes
+T01366,A00186,2024-10-18,2161,Credit,Net Banking,Chennai,ATM,Yes
+T01367,A00126,2024-12-08,54450,Credit,Card,Mumbai,POS,Yes
+T01368,A00456,2025-03-26,153326,Debit,Net Banking,Kolkata,Mobile App,Yes
+T01369,A00314,2025-05-09,47068,Debit,Card,Kolkata,Internet Banking,Yes
+T01370,A00419,2025-05-03,49168,Credit,Net Banking,Bengaluru,ATM,No
+T01371,A00335,2025-04-26,7856,Credit,Net Banking,Mumbai,POS,No
+T01372,A00218,2024-12-31,47333,Credit,Net Banking,Bengaluru,Internet Banking,No
+T01373,A00336,2025-03-25,195889,Credit,Card,Kolkata,ATM,No
+T01374,A00232,2024-08-18,108420,Debit,Net Banking,Mumbai,Mobile App,No
+T01375,A00495,2024-09-18,149165,Debit,ATM,Chennai,Internet Banking,No
+T01376,A00525,2024-08-24,144172,Debit,ATM,Chennai,Internet Banking,Yes
+T01377,A00052,2025-03-05,3747,Credit,Net Banking,Delhi,Internet Banking,No
+T01378,A00104,2024-10-13,25175,Credit,UPI,Mumbai,Mobile App,No
+T01379,A00525,2025-01-19,69867,Credit,ATM,Mumbai,Mobile App,No
+T01380,A00579,2024-12-21,48435,Credit,ATM,Chennai,POS,No
+T01381,A00110,2024-12-07,177993,Debit,Card,Chennai,ATM,No
+T01382,A00365,2024-09-30,104307,Credit,UPI,Bengaluru,POS,Yes
+T01383,A00436,2025-06-29,70521,Debit,UPI,Bengaluru,Mobile App,No
+T01384,A00490,2024-09-05,129980,Credit,Card,Delhi,Internet Banking,Yes
+T01385,A00193,2025-02-22,20398,Debit,Card,Chennai,ATM,No
+T01386,A00300,2025-03-25,15972,Credit,ATM,Chennai,Mobile App,No
+T01387,A00286,2024-07-14,110804,Credit,ATM,Kolkata,POS,Yes
+T01388,A00391,2025-02-16,143326,Credit,ATM,Delhi,Internet Banking,Yes
+T01389,A00509,2024-09-07,6725,Credit,Net Banking,Bengaluru,POS,No
+T01390,A00090,2025-04-04,18830,Credit,UPI,Bengaluru,Internet Banking,Yes
+T01391,A00491,2025-01-10,118216,Debit,Net Banking,Hyderabad,Mobile App,No
+T01392,A00454,2025-02-22,121879,Debit,UPI,Hyderabad,Internet Banking,No
+T01393,A00388,2024-08-03,199191,Debit,Net Banking,Chennai,ATM,Yes
+T01394,A00167,2025-02-28,5166,Credit,Card,Hyderabad,Internet Banking,No
+T01395,A00408,2025-05-16,56732,Credit,Net Banking,Kolkata,POS,Yes
+T01396,A00067,2025-04-29,21172,Credit,Net Banking,Hyderabad,ATM,No
+T01397,A00318,2024-10-24,104973,Debit,ATM,Kolkata,POS,No
+T01398,A00230,2024-11-12,50960,Credit,Net Banking,Chennai,ATM,Yes
+T01399,A00215,2024-12-09,116924,Credit,ATM,Kolkata,POS,No
+T01400,A00406,2024-07-01,10412,Debit,ATM,Kolkata,ATM,Yes
+T01401,A00140,2025-02-01,89866,Debit,ATM,Kolkata,Internet Banking,Yes
+T01402,A00590,2024-09-29,179734,Debit,Net Banking,Chennai,Mobile App,Yes
+T01403,A00264,2024-09-12,2925,Debit,Card,Chennai,ATM,No
+T01404,A00386,2024-08-14,8724,Credit,Card,Chennai,Mobile App,Yes
+T01405,A00441,2025-01-21,76437,Credit,UPI,Chennai,ATM,No
+T01406,A00269,2024-08-06,153009,Debit,Card,Bengaluru,Internet Banking,No
+T01407,A00350,2025-02-25,52079,Debit,UPI,Kolkata,POS,No
+T01408,A00054,2024-11-17,54803,Credit,Net Banking,Mumbai,POS,No
+T01409,A00589,2025-05-31,48531,Credit,Card,Kolkata,ATM,No
+T01410,A00600,2025-04-21,108435,Debit,Net Banking,Hyderabad,POS,Yes
+T01411,A00030,2025-01-25,120381,Debit,Card,Mumbai,POS,No
+T01412,A00038,2025-01-13,48213,Credit,Card,Kolkata,POS,Yes
+T01413,A00115,2024-09-23,66633,Debit,ATM,Hyderabad,ATM,No
+T01414,A00050,2024-12-27,73411,Debit,UPI,Hyderabad,Internet Banking,No
+T01415,A00546,2025-04-25,98858,Credit,Net Banking,Mumbai,Internet Banking,No
+T01416,A00568,2025-02-28,151507,Debit,UPI,Kolkata,ATM,Yes
+T01417,A00349,2025-03-13,58787,Debit,ATM,Chennai,Internet Banking,No
+T01418,A00492,2024-09-18,29756,Credit,Net Banking,Mumbai,ATM,No
+T01419,A00234,2024-10-15,115592,Credit,UPI,Mumbai,Internet Banking,Yes
+T01420,A00592,2024-07-20,42019,Debit,ATM,Bengaluru,Internet Banking,No
+T01421,A00018,2024-09-13,147739,Debit,Net Banking,Chennai,POS,No
+T01422,A00545,2024-08-12,73143,Credit,UPI,Kolkata,POS,No
+T01423,A00240,2025-05-05,116387,Debit,ATM,Mumbai,ATM,Yes
+T01424,A00349,2024-08-26,113668,Debit,Net Banking,Mumbai,POS,No
+T01425,A00168,2025-03-23,63451,Debit,Net Banking,Mumbai,Internet Banking,No
+T01426,A00098,2025-05-23,145644,Credit,ATM,Delhi,POS,Yes
+T01427,A00088,2025-06-18,1497,Debit,ATM,Chennai,Mobile App,Yes
+T01428,A00554,2024-12-31,141639,Debit,ATM,Bengaluru,Internet Banking,Yes
+T01429,A00420,2025-01-09,58372,Debit,ATM,Hyderabad,POS,No
+T01430,A00535,2024-09-06,147640,Credit,UPI,Kolkata,Internet Banking,No
+T01431,A00298,2024-08-31,8622,Debit,UPI,Mumbai,ATM,Yes
+T01432,A00295,2025-03-17,194462,Debit,Card,Bengaluru,Mobile App,No
+T01433,A00175,2025-06-23,104354,Credit,Net Banking,Kolkata,ATM,Yes
+T01434,A00302,2024-07-16,198341,Debit,Card,Kolkata,Mobile App,No
+T01435,A00400,2024-07-20,85322,Credit,Net Banking,Bengaluru,ATM,No
+T01436,A00284,2025-03-07,68286,Debit,ATM,Kolkata,Internet Banking,No
+T01437,A00527,2024-11-18,16055,Credit,ATM,Kolkata,Mobile App,No
+T01438,A00530,2024-10-18,41066,Credit,Net Banking,Hyderabad,Internet Banking,No
+T01439,A00305,2024-09-19,91796,Credit,UPI,Bengaluru,ATM,Yes
+T01440,A00469,2024-12-15,161523,Debit,UPI,Mumbai,Internet Banking,No
+T01441,A00597,2024-10-05,191079,Credit,UPI,Hyderabad,POS,Yes
+T01442,A00380,2024-11-06,160728,Credit,ATM,Bengaluru,POS,Yes
+T01443,A00449,2025-02-24,144290,Debit,UPI,Mumbai,Mobile App,No
+T01444,A00175,2025-05-08,85309,Credit,Net Banking,Chennai,Mobile App,No
+T01445,A00575,2025-06-10,28601,Debit,UPI,Hyderabad,Mobile App,Yes
+T01446,A00380,2025-04-20,183307,Debit,UPI,Chennai,Internet Banking,No
+T01447,A00503,2024-12-22,158336,Credit,Net Banking,Kolkata,Mobile App,Yes
+T01448,A00337,2024-07-16,57505,Credit,Card,Mumbai,Mobile App,No
+T01449,A00585,2024-08-09,193604,Credit,Net Banking,Hyderabad,POS,Yes
+T01450,A00357,2025-04-13,158621,Debit,Net Banking,Mumbai,Internet Banking,Yes
+T01451,A00533,2024-07-20,59047,Credit,Card,Kolkata,POS,Yes
+T01452,A00130,2025-06-24,33450,Credit,Card,Kolkata,ATM,Yes
+T01453,A00531,2025-01-24,121215,Debit,ATM,Hyderabad,POS,Yes
+T01454,A00114,2024-09-06,183788,Credit,Net Banking,Bengaluru,POS,No
+T01455,A00053,2024-08-30,41519,Debit,UPI,Bengaluru,ATM,Yes
+T01456,A00184,2025-05-01,198834,Credit,Card,Chennai,Internet Banking,No
+T01457,A00147,2024-07-11,129404,Credit,ATM,Hyderabad,ATM,No
+T01458,A00074,2025-01-04,47333,Credit,ATM,Hyderabad,POS,No
+T01459,A00452,2025-01-15,141898,Credit,ATM,Delhi,POS,No
+T01460,A00598,2024-08-14,22908,Debit,UPI,Delhi,ATM,Yes
+T01461,A00474,2024-07-27,42060,Credit,ATM,Bengaluru,ATM,Yes
+T01462,A00552,2025-06-12,150201,Credit,UPI,Hyderabad,Internet Banking,Yes
+T01463,A00076,2024-09-29,30999,Debit,ATM,Delhi,Internet Banking,Yes
+T01464,A00141,2025-04-06,101711,Credit,UPI,Bengaluru,ATM,No
+T01465,A00307,2024-12-19,58350,Debit,ATM,Chennai,Mobile App,No
+T01466,A00542,2025-02-15,91342,Credit,Card,Hyderabad,ATM,Yes
+T01467,A00554,2025-02-10,171074,Debit,ATM,Kolkata,POS,Yes
+T01468,A00193,2024-11-03,12619,Debit,Card,Chennai,ATM,Yes
+T01469,A00463,2024-12-09,78340,Credit,ATM,Chennai,Mobile App,No
+T01470,A00084,2024-09-15,147742,Debit,ATM,Bengaluru,Mobile App,Yes
+T01471,A00474,2025-04-16,112622,Debit,ATM,Mumbai,Internet Banking,No
+T01472,A00015,2025-03-19,15697,Credit,ATM,Bengaluru,Mobile App,Yes
+T01473,A00337,2025-06-13,32982,Credit,Card,Bengaluru,Mobile App,Yes
+T01474,A00595,2024-11-03,112939,Debit,UPI,Mumbai,Internet Banking,Yes
+T01475,A00542,2024-09-27,188457,Debit,ATM,Hyderabad,ATM,Yes
+T01476,A00307,2025-04-28,110143,Debit,Net Banking,Bengaluru,POS,No
+T01477,A00269,2024-08-11,118736,Debit,Net Banking,Kolkata,ATM,No
+T01478,A00337,2024-11-03,103681,Credit,Card,Kolkata,Mobile App,Yes
+T01479,A00102,2024-09-26,169414,Debit,Card,Hyderabad,Mobile App,No
+T01480,A00273,2024-08-07,86903,Credit,UPI,Chennai,POS,No
+T01481,A00212,2024-09-30,45095,Credit,UPI,Delhi,ATM,Yes
+T01482,A00436,2025-04-12,119013,Debit,Card,Kolkata,ATM,Yes
+T01483,A00509,2024-12-07,43669,Credit,Net Banking,Bengaluru,POS,No
+T01484,A00164,2025-06-02,145056,Debit,Net Banking,Bengaluru,Internet Banking,No
+T01485,A00536,2024-09-15,169057,Credit,Card,Mumbai,Mobile App,No
+T01486,A00401,2024-11-22,79719,Debit,Net Banking,Delhi,Internet Banking,Yes
+T01487,A00536,2025-06-11,93396,Debit,ATM,Hyderabad,POS,No
+T01488,A00108,2024-09-23,53946,Debit,Card,Hyderabad,Internet Banking,Yes
+T01489,A00085,2024-07-28,154270,Debit,Net Banking,Bengaluru,POS,Yes
+T01490,A00187,2024-12-29,128354,Credit,ATM,Delhi,Mobile App,Yes
+T01491,A00223,2025-02-12,69509,Credit,Net Banking,Chennai,Mobile App,No
+T01492,A00031,2025-01-04,163528,Credit,Net Banking,Kolkata,Mobile App,No
+T01493,A00215,2024-07-21,196424,Credit,Net Banking,Mumbai,Internet Banking,No
+T01494,A00541,2025-06-10,164359,Credit,UPI,Kolkata,ATM,No
+T01495,A00515,2024-12-16,153817,Credit,UPI,Hyderabad,ATM,No
+T01496,A00350,2024-08-25,98046,Credit,Card,Chennai,ATM,No
+T01497,A00445,2024-09-21,6232,Credit,Net Banking,Chennai,Internet Banking,No
+T01498,A00550,2025-06-25,118757,Debit,UPI,Delhi,Internet Banking,Yes
+T01499,A00117,2025-02-21,189574,Credit,ATM,Bengaluru,POS,No
+T01500,A00084,2024-12-23,249,Debit,UPI,Kolkata,Internet Banking,Yes
+T01501,A00592,2024-09-07,132657,Credit,Card,Mumbai,ATM,Yes
+T01502,A00252,2024-11-27,143265,Credit,Card,Bengaluru,ATM,No
+T01503,A00504,2024-11-22,114093,Debit,ATM,Mumbai,ATM,Yes
+T01504,A00552,2024-08-21,79097,Debit,Net Banking,Delhi,Internet Banking,No
+T01505,A00082,2024-12-24,831,Debit,ATM,Bengaluru,POS,No
+T01506,A00282,2025-04-05,109858,Debit,UPI,Mumbai,POS,No
+T01507,A00345,2024-09-13,196231,Credit,UPI,Hyderabad,POS,Yes
+T01508,A00591,2025-03-02,129903,Credit,Card,Delhi,POS,Yes
+T01509,A00012,2024-11-16,95359,Credit,ATM,Chennai,Mobile App,No
+T01510,A00024,2024-10-12,197635,Debit,UPI,Bengaluru,Internet Banking,No
+T01511,A00587,2024-09-16,108308,Credit,UPI,Hyderabad,ATM,Yes
+T01512,A00171,2024-11-07,5788,Debit,Card,Kolkata,Mobile App,No
+T01513,A00108,2024-08-18,44571,Debit,UPI,Kolkata,ATM,Yes
+T01514,A00456,2024-07-12,11790,Debit,UPI,Hyderabad,ATM,No
+T01515,A00480,2025-03-25,143136,Debit,UPI,Delhi,POS,No
+T01516,A00591,2025-02-05,2781,Credit,UPI,Kolkata,ATM,Yes
+T01517,A00049,2024-07-23,174453,Debit,ATM,Bengaluru,Internet Banking,No
+T01518,A00380,2024-10-16,187498,Credit,Net Banking,Chennai,POS,No
+T01519,A00324,2024-08-22,27174,Credit,ATM,Mumbai,ATM,Yes
+T01520,A00152,2024-08-12,148223,Credit,UPI,Hyderabad,POS,Yes
+T01521,A00574,2025-05-26,45125,Debit,UPI,Kolkata,Internet Banking,No
+T01522,A00436,2024-12-27,156081,Credit,UPI,Delhi,Mobile App,No
+T01523,A00434,2024-12-25,12278,Credit,Net Banking,Chennai,Mobile App,No
+T01524,A00600,2024-12-09,43590,Credit,ATM,Hyderabad,ATM,No
+T01525,A00213,2024-09-04,48903,Credit,Card,Bengaluru,ATM,No
+T01526,A00227,2025-04-21,20482,Debit,Net Banking,Chennai,Mobile App,No
+T01527,A00383,2024-11-10,97461,Debit,Card,Delhi,Mobile App,No
+T01528,A00092,2024-09-23,78557,Credit,ATM,Hyderabad,Mobile App,No
+T01529,A00321,2025-06-09,62541,Debit,Card,Kolkata,POS,No
+T01530,A00517,2024-10-22,162549,Debit,ATM,Chennai,Internet Banking,No
+T01531,A00552,2025-02-19,8639,Credit,Net Banking,Mumbai,POS,No
+T01532,A00022,2024-08-29,73367,Credit,Net Banking,Hyderabad,POS,No
+T01533,A00476,2025-05-02,68007,Debit,Card,Kolkata,Mobile App,No
+T01534,A00013,2025-05-04,142238,Debit,Card,Delhi,Internet Banking,Yes
+T01535,A00327,2025-03-04,150157,Debit,Net Banking,Bengaluru,Internet Banking,Yes
+T01536,A00200,2025-02-22,9168,Credit,Card,Chennai,ATM,No
+T01537,A00130,2025-06-16,153396,Debit,ATM,Bengaluru,POS,Yes
+T01538,A00405,2024-09-03,59127,Debit,UPI,Delhi,POS,Yes
+T01539,A00021,2025-02-09,45543,Credit,Net Banking,Mumbai,ATM,Yes
+T01540,A00125,2025-01-30,41224,Debit,UPI,Hyderabad,Internet Banking,Yes
+T01541,A00125,2025-05-28,91456,Credit,Card,Mumbai,Internet Banking,No
+T01542,A00590,2024-09-27,50543,Debit,ATM,Mumbai,Internet Banking,Yes
+T01543,A00247,2024-08-02,64919,Credit,ATM,Mumbai,Mobile App,No
+T01544,A00599,2024-12-06,54177,Credit,UPI,Delhi,Internet Banking,No
+T01545,A00082,2025-05-28,45533,Credit,Card,Kolkata,ATM,Yes
+T01546,A00011,2025-01-18,1819,Credit,ATM,Chennai,ATM,No
+T01547,A00255,2025-01-05,44080,Credit,Net Banking,Chennai,Mobile App,No
+T01548,A00546,2025-05-30,64241,Debit,ATM,Kolkata,POS,Yes
+T01549,A00129,2024-09-22,93821,Credit,ATM,Chennai,POS,Yes
+T01550,A00588,2025-02-14,17725,Debit,Card,Bengaluru,ATM,No
+T01551,A00486,2024-12-30,10778,Debit,Net Banking,Mumbai,Mobile App,No
+T01552,A00315,2025-05-21,40460,Debit,Net Banking,Chennai,POS,Yes
+T01553,A00138,2024-12-26,98204,Credit,UPI,Hyderabad,POS,Yes
+T01554,A00323,2024-10-16,171011,Debit,Net Banking,Delhi,Internet Banking,Yes
+T01555,A00358,2024-07-05,86970,Debit,UPI,Mumbai,Internet Banking,Yes
+T01556,A00125,2025-04-09,90291,Credit,ATM,Bengaluru,ATM,No
+T01557,A00250,2024-12-13,15665,Debit,Net Banking,Hyderabad,ATM,No
+T01558,A00437,2025-04-11,29859,Credit,ATM,Chennai,Internet Banking,No
+T01559,A00044,2025-06-03,162155,Debit,ATM,Bengaluru,ATM,No
+T01560,A00588,2024-10-03,191304,Debit,Card,Delhi,POS,Yes
+T01561,A00061,2024-10-04,59408,Debit,Net Banking,Hyderabad,Mobile App,No
+T01562,A00544,2024-11-04,88611,Debit,Net Banking,Kolkata,Internet Banking,No
+T01563,A00336,2024-12-15,74464,Credit,Card,Kolkata,Internet Banking,No
+T01564,A00548,2025-02-10,86230,Debit,ATM,Bengaluru,ATM,Yes
+T01565,A00104,2024-09-24,188296,Debit,Card,Chennai,ATM,Yes
+T01566,A00515,2025-06-11,179131,Credit,Card,Kolkata,Internet Banking,No
+T01567,A00126,2025-06-25,8853,Credit,Net Banking,Kolkata,ATM,No
+T01568,A00044,2025-02-14,59354,Credit,ATM,Mumbai,POS,No
+T01569,A00291,2024-08-26,106221,Credit,Net Banking,Delhi,ATM,Yes
+T01570,A00336,2025-06-19,152378,Debit,Card,Kolkata,Internet Banking,Yes
+T01571,A00063,2025-02-07,132297,Credit,UPI,Bengaluru,POS,Yes
+T01572,A00139,2025-06-13,145428,Credit,UPI,Kolkata,ATM,Yes
+T01573,A00307,2024-07-01,146969,Credit,UPI,Delhi,ATM,No
+T01574,A00218,2024-12-09,74768,Credit,Net Banking,Mumbai,Mobile App,Yes
+T01575,A00473,2024-07-17,182327,Credit,UPI,Delhi,ATM,No
+T01576,A00212,2024-07-15,54665,Debit,ATM,Hyderabad,ATM,No
+T01577,A00411,2024-12-29,163620,Credit,UPI,Kolkata,Mobile App,No
+T01578,A00072,2025-04-10,50861,Credit,UPI,Delhi,POS,Yes
+T01579,A00352,2025-04-24,198032,Credit,Card,Bengaluru,ATM,No
+T01580,A00544,2025-01-11,64483,Credit,ATM,Bengaluru,Internet Banking,Yes
+T01581,A00509,2024-07-13,50627,Credit,UPI,Hyderabad,Internet Banking,Yes
+T01582,A00211,2024-12-12,42620,Debit,Card,Bengaluru,ATM,No
+T01583,A00389,2025-01-22,77312,Debit,UPI,Delhi,ATM,Yes
+T01584,A00412,2024-11-30,64663,Debit,UPI,Hyderabad,Mobile App,Yes
+T01585,A00144,2025-01-02,103414,Credit,Card,Chennai,ATM,Yes
+T01586,A00451,2025-05-10,42884,Debit,Card,Bengaluru,ATM,No
+T01587,A00081,2025-05-05,155314,Credit,Net Banking,Kolkata,POS,No
+T01588,A00223,2025-03-27,111971,Debit,Net Banking,Chennai,Internet Banking,Yes
+T01589,A00358,2025-05-14,34771,Credit,ATM,Chennai,Mobile App,Yes
+T01590,A00522,2024-08-07,1998,Debit,UPI,Kolkata,ATM,Yes
+T01591,A00411,2024-12-22,140977,Credit,ATM,Hyderabad,ATM,Yes
+T01592,A00582,2025-01-08,7086,Credit,Net Banking,Hyderabad,Internet Banking,No
+T01593,A00252,2024-10-01,91016,Debit,UPI,Hyderabad,POS,Yes
+T01594,A00215,2024-08-01,148035,Credit,Net Banking,Delhi,Internet Banking,No
+T01595,A00362,2025-02-01,195822,Credit,Net Banking,Delhi,Mobile App,Yes
+T01596,A00248,2025-04-18,194196,Credit,Card,Mumbai,Internet Banking,No
+T01597,A00062,2024-07-04,141229,Debit,ATM,Chennai,ATM,Yes
+T01598,A00008,2025-03-26,169211,Credit,Net Banking,Mumbai,POS,No
+T01599,A00342,2025-04-10,60521,Debit,ATM,Hyderabad,ATM,No
+T01600,A00558,2024-12-04,32199,Credit,Net Banking,Delhi,Mobile App,No
+T01601,A00330,2024-09-22,33215,Credit,UPI,Delhi,ATM,No
+T01602,A00441,2024-08-20,70738,Credit,UPI,Delhi,ATM,No
+T01603,A00093,2024-11-16,197404,Debit,UPI,Bengaluru,Internet Banking,Yes
+T01604,A00376,2024-10-22,70937,Debit,UPI,Kolkata,Mobile App,Yes
+T01605,A00299,2024-09-30,23815,Debit,UPI,Hyderabad,Internet Banking,Yes
+T01606,A00462,2025-03-08,42486,Debit,UPI,Kolkata,Mobile App,Yes
+T01607,A00253,2024-08-04,152087,Credit,Net Banking,Mumbai,POS,Yes
+T01608,A00089,2024-07-06,15181,Credit,UPI,Kolkata,Mobile App,Yes
+T01609,A00343,2025-01-02,116578,Debit,ATM,Hyderabad,ATM,Yes
+T01610,A00396,2025-03-16,87483,Debit,UPI,Hyderabad,ATM,No
+T01611,A00385,2024-10-26,197063,Debit,UPI,Mumbai,ATM,Yes
+T01612,A00246,2024-08-31,156978,Credit,Card,Kolkata,Internet Banking,No
+T01613,A00599,2025-03-30,103075,Debit,UPI,Delhi,Mobile App,Yes
+T01614,A00500,2024-12-25,82165,Debit,Net Banking,Mumbai,Mobile App,No
+T01615,A00582,2025-05-29,160460,Debit,Net Banking,Kolkata,POS,No
+T01616,A00191,2025-02-06,157686,Debit,Card,Bengaluru,Mobile App,Yes
+T01617,A00366,2025-04-16,161263,Credit,Card,Bengaluru,Internet Banking,No
+T01618,A00356,2025-02-11,35200,Debit,UPI,Bengaluru,Internet Banking,No
+T01619,A00119,2024-07-09,14895,Debit,Card,Kolkata,Internet Banking,No
+T01620,A00104,2024-12-23,31007,Debit,Net Banking,Kolkata,POS,No
+T01621,A00389,2024-12-27,37492,Credit,UPI,Kolkata,Mobile App,No
+T01622,A00298,2025-04-25,63729,Debit,Net Banking,Delhi,Internet Banking,No
+T01623,A00253,2024-08-22,130231,Debit,UPI,Hyderabad,Mobile App,Yes
+T01624,A00403,2025-06-04,105347,Debit,Card,Kolkata,Internet Banking,No
+T01625,A00044,2025-03-30,52027,Credit,Net Banking,Delhi,ATM,No
+T01626,A00138,2024-12-04,19827,Debit,ATM,Kolkata,ATM,No
+T01627,A00521,2024-09-09,126223,Credit,ATM,Delhi,Internet Banking,No
+T01628,A00246,2025-05-02,120630,Credit,ATM,Kolkata,Internet Banking,Yes
+T01629,A00483,2025-06-03,81099,Debit,UPI,Kolkata,POS,Yes
+T01630,A00498,2024-11-20,154240,Debit,Net Banking,Chennai,Internet Banking,Yes
+T01631,A00187,2025-02-28,97537,Debit,ATM,Bengaluru,Mobile App,Yes
+T01632,A00468,2024-12-27,72938,Credit,ATM,Hyderabad,Mobile App,No
+T01633,A00029,2025-03-30,42056,Debit,Net Banking,Mumbai,ATM,Yes
+T01634,A00163,2025-03-02,17287,Debit,UPI,Chennai,Internet Banking,Yes
+T01635,A00558,2024-06-30,4002,Credit,UPI,Chennai,Internet Banking,Yes
+T01636,A00432,2025-05-30,100745,Debit,Net Banking,Chennai,Mobile App,No
+T01637,A00388,2025-02-28,47876,Debit,Net Banking,Chennai,ATM,No
+T01638,A00420,2024-07-27,156153,Credit,ATM,Kolkata,Internet Banking,Yes
+T01639,A00005,2024-11-26,70407,Debit,UPI,Kolkata,ATM,No
+T01640,A00352,2025-06-11,168112,Debit,Card,Bengaluru,Mobile App,No
+T01641,A00256,2025-03-25,24454,Credit,Card,Kolkata,POS,No
+T01642,A00303,2024-11-06,148567,Credit,ATM,Bengaluru,Mobile App,No
+T01643,A00182,2025-01-22,53354,Credit,Card,Chennai,Mobile App,Yes
+T01644,A00534,2024-07-12,117576,Credit,ATM,Bengaluru,ATM,Yes
+T01645,A00085,2024-10-23,89726,Debit,UPI,Hyderabad,Internet Banking,No
+T01646,A00387,2024-12-12,163188,Debit,Card,Bengaluru,Mobile App,No
+T01647,A00262,2025-04-18,25734,Credit,Net Banking,Hyderabad,Internet Banking,Yes
+T01648,A00263,2024-10-12,153705,Debit,UPI,Delhi,ATM,No
+T01649,A00071,2025-03-28,34818,Credit,UPI,Bengaluru,Internet Banking,Yes
+T01650,A00423,2025-02-22,47498,Credit,UPI,Chennai,Internet Banking,Yes
+T01651,A00079,2025-01-26,103784,Credit,Card,Hyderabad,Mobile App,Yes
+T01652,A00036,2025-02-08,117104,Credit,Net Banking,Bengaluru,POS,Yes
+T01653,A00108,2025-05-04,20026,Credit,Net Banking,Delhi,Mobile App,Yes
+T01654,A00473,2024-09-18,184384,Debit,UPI,Chennai,Internet Banking,Yes
+T01655,A00332,2025-05-01,60151,Debit,ATM,Bengaluru,POS,No
+T01656,A00210,2025-03-22,26281,Credit,ATM,Delhi,Internet Banking,Yes
+T01657,A00343,2024-07-31,126353,Credit,Net Banking,Kolkata,Internet Banking,Yes
+T01658,A00549,2025-02-25,97716,Credit,ATM,Hyderabad,POS,Yes
+T01659,A00307,2025-06-07,60948,Debit,Card,Kolkata,Mobile App,Yes
+T01660,A00420,2024-11-07,189511,Credit,Net Banking,Bengaluru,POS,Yes
+T01661,A00272,2025-04-11,105162,Credit,UPI,Mumbai,POS,Yes
+T01662,A00044,2025-06-27,33682,Debit,UPI,Delhi,ATM,No
+T01663,A00383,2024-07-21,111131,Debit,Card,Kolkata,ATM,No
+T01664,A00128,2025-01-15,71945,Debit,Net Banking,Kolkata,ATM,No
+T01665,A00039,2025-06-18,124212,Debit,ATM,Kolkata,Internet Banking,No
+T01666,A00194,2025-03-19,83593,Debit,Net Banking,Kolkata,POS,Yes
+T01667,A00574,2024-11-18,39721,Credit,ATM,Chennai,ATM,No
+T01668,A00560,2025-06-09,175154,Credit,ATM,Kolkata,Mobile App,No
+T01669,A00002,2024-07-20,133451,Credit,Card,Bengaluru,POS,No
+T01670,A00139,2024-08-12,165134,Debit,UPI,Mumbai,Mobile App,Yes
+T01671,A00503,2024-11-25,104601,Credit,UPI,Bengaluru,POS,No
+T01672,A00220,2024-11-18,66127,Credit,ATM,Delhi,ATM,No
+T01673,A00009,2024-12-27,100526,Debit,ATM,Mumbai,Mobile App,Yes
+T01674,A00271,2025-02-25,27070,Credit,ATM,Kolkata,Internet Banking,No
+T01675,A00147,2024-07-15,37289,Debit,ATM,Kolkata,POS,Yes
+T01676,A00499,2024-11-18,183920,Debit,UPI,Kolkata,ATM,No
+T01677,A00430,2024-11-19,6759,Credit,ATM,Bengaluru,Internet Banking,No
+T01678,A00214,2024-09-06,162841,Debit,ATM,Mumbai,ATM,Yes
+T01679,A00433,2025-03-08,111700,Credit,ATM,Bengaluru,Mobile App,Yes
+T01680,A00138,2025-02-02,31679,Credit,Net Banking,Chennai,Mobile App,Yes
+T01681,A00522,2025-03-30,117689,Credit,Net Banking,Kolkata,POS,Yes
+T01682,A00105,2024-07-26,60017,Debit,ATM,Bengaluru,POS,No
+T01683,A00270,2025-02-02,7033,Credit,Net Banking,Delhi,Mobile App,No
+T01684,A00266,2025-04-01,1282,Credit,ATM,Bengaluru,Internet Banking,Yes
+T01685,A00278,2025-04-26,149805,Debit,Card,Mumbai,Mobile App,No
+T01686,A00465,2024-09-17,155575,Debit,UPI,Mumbai,Internet Banking,No
+T01687,A00119,2024-08-22,41607,Debit,UPI,Bengaluru,ATM,Yes
+T01688,A00542,2024-11-07,173074,Credit,ATM,Kolkata,Mobile App,Yes
+T01689,A00593,2024-09-30,194565,Debit,Net Banking,Delhi,Internet Banking,No
+T01690,A00236,2025-01-25,139834,Credit,ATM,Hyderabad,POS,Yes
+T01691,A00325,2024-08-13,70506,Credit,ATM,Delhi,Internet Banking,Yes
+T01692,A00217,2025-03-09,82781,Debit,Net Banking,Mumbai,POS,Yes
+T01693,A00023,2025-01-01,36126,Debit,Net Banking,Chennai,POS,No
+T01694,A00590,2025-04-12,71005,Debit,Net Banking,Chennai,POS,No
+T01695,A00422,2025-06-29,16112,Debit,ATM,Mumbai,Mobile App,No
+T01696,A00589,2025-04-18,50183,Credit,ATM,Mumbai,Internet Banking,No
+T01697,A00046,2025-02-10,43672,Debit,ATM,Hyderabad,ATM,Yes
+T01698,A00429,2025-06-03,184950,Debit,ATM,Hyderabad,ATM,No
+T01699,A00508,2025-03-29,27859,Credit,UPI,Mumbai,POS,No
+T01700,A00412,2024-09-19,16561,Credit,Net Banking,Chennai,Mobile App,Yes
+T01701,A00267,2025-04-18,92855,Debit,ATM,Bengaluru,Mobile App,Yes
+T01702,A00004,2025-04-15,181263,Credit,ATM,Hyderabad,Mobile App,Yes
+T01703,A00584,2025-04-21,60464,Credit,UPI,Mumbai,Mobile App,No
+T01704,A00178,2024-09-25,87096,Debit,ATM,Kolkata,Mobile App,No
+T01705,A00178,2024-11-01,93063,Debit,Card,Bengaluru,Mobile App,Yes
+T01706,A00518,2024-11-13,2703,Credit,Net Banking,Kolkata,Internet Banking,Yes
+T01707,A00550,2025-06-13,83408,Credit,Net Banking,Bengaluru,POS,No
+T01708,A00285,2024-10-11,24764,Credit,UPI,Hyderabad,Mobile App,No
+T01709,A00522,2025-01-11,71116,Debit,ATM,Chennai,Mobile App,Yes
+T01710,A00466,2025-03-21,55119,Debit,Card,Delhi,ATM,No
+T01711,A00277,2024-12-11,188790,Debit,Net Banking,Delhi,ATM,No
+T01712,A00328,2024-10-15,36688,Credit,Card,Hyderabad,POS,No
+T01713,A00360,2024-07-21,26410,Credit,UPI,Bengaluru,Mobile App,Yes
+T01714,A00115,2024-07-24,152638,Credit,Net Banking,Hyderabad,ATM,Yes
+T01715,A00243,2024-11-21,167832,Credit,Card,Bengaluru,Mobile App,Yes
+T01716,A00337,2024-11-11,27642,Credit,Card,Bengaluru,Internet Banking,No
+T01717,A00551,2024-12-22,78615,Credit,ATM,Delhi,POS,Yes
+T01718,A00465,2025-01-04,62428,Credit,ATM,Chennai,Mobile App,Yes
+T01719,A00140,2025-01-10,174737,Credit,ATM,Bengaluru,POS,Yes
+T01720,A00503,2025-01-20,13041,Credit,Net Banking,Hyderabad,ATM,No
+T01721,A00127,2025-05-18,135739,Debit,ATM,Hyderabad,Mobile App,No
+T01722,A00465,2024-08-16,115867,Debit,Card,Kolkata,POS,Yes
+T01723,A00273,2024-12-29,127269,Credit,ATM,Bengaluru,POS,No
+T01724,A00202,2025-04-01,155100,Credit,ATM,Delhi,Internet Banking,Yes
+T01725,A00022,2025-01-22,120947,Credit,Card,Bengaluru,Mobile App,No
+T01726,A00436,2025-03-20,167272,Debit,UPI,Delhi,Internet Banking,Yes
+T01727,A00567,2025-05-16,36710,Debit,Net Banking,Delhi,POS,Yes
+T01728,A00574,2025-01-22,68500,Credit,Card,Hyderabad,Mobile App,No
+T01729,A00123,2025-06-14,122295,Debit,UPI,Delhi,Internet Banking,No
+T01730,A00109,2024-10-21,158818,Debit,Card,Kolkata,Mobile App,No
+T01731,A00393,2024-12-22,33352,Credit,UPI,Kolkata,POS,No
+T01732,A00278,2025-02-26,98236,Credit,UPI,Mumbai,Internet Banking,No
+T01733,A00036,2024-11-19,181614,Debit,Card,Hyderabad,POS,Yes
+T01734,A00208,2025-05-06,194413,Credit,UPI,Hyderabad,ATM,No
+T01735,A00313,2025-03-18,65983,Debit,ATM,Hyderabad,POS,No
+T01736,A00214,2025-03-26,34517,Debit,UPI,Mumbai,POS,Yes
+T01737,A00516,2025-05-10,40293,Credit,ATM,Mumbai,ATM,No
+T01738,A00536,2025-06-30,24590,Credit,Card,Bengaluru,Mobile App,Yes
+T01739,A00067,2025-06-07,131622,Credit,ATM,Kolkata,Mobile App,Yes
+T01740,A00520,2024-07-25,143035,Credit,Net Banking,Mumbai,POS,No
+T01741,A00506,2024-09-11,62035,Debit,UPI,Chennai,ATM,No
+T01742,A00211,2025-06-11,185749,Debit,Net Banking,Hyderabad,POS,Yes
+T01743,A00562,2025-06-08,66782,Credit,Card,Mumbai,ATM,No
+T01744,A00482,2024-12-24,164800,Debit,ATM,Mumbai,Mobile App,No
+T01745,A00454,2024-08-02,177153,Debit,Card,Mumbai,Mobile App,No
+T01746,A00368,2024-07-31,84336,Credit,UPI,Hyderabad,Internet Banking,No
+T01747,A00525,2024-11-28,183708,Debit,ATM,Delhi,POS,No
+T01748,A00228,2025-06-13,141579,Debit,UPI,Bengaluru,ATM,Yes
+T01749,A00240,2024-09-07,28794,Debit,UPI,Chennai,ATM,No
+T01750,A00220,2024-10-19,154948,Debit,Card,Hyderabad,POS,No
+T01751,A00415,2024-07-29,47373,Credit,ATM,Bengaluru,ATM,No
+T01752,A00291,2024-08-11,193025,Credit,UPI,Kolkata,Internet Banking,Yes
+T01753,A00487,2024-09-01,2046,Credit,UPI,Mumbai,POS,No
+T01754,A00461,2024-10-15,79401,Debit,Card,Mumbai,Internet Banking,No
+T01755,A00015,2024-08-12,142373,Debit,UPI,Chennai,Mobile App,No
+T01756,A00258,2025-03-27,126742,Debit,UPI,Hyderabad,POS,No
+T01757,A00097,2024-08-26,129242,Debit,Net Banking,Chennai,ATM,No
+T01758,A00239,2025-01-08,10965,Credit,Card,Chennai,Mobile App,Yes
+T01759,A00009,2024-08-27,113194,Debit,Card,Chennai,ATM,Yes
+T01760,A00013,2025-06-04,129260,Credit,Net Banking,Chennai,Mobile App,Yes
+T01761,A00116,2024-09-17,166311,Credit,ATM,Hyderabad,POS,Yes
+T01762,A00358,2025-01-18,100292,Debit,ATM,Kolkata,POS,Yes
+T01763,A00198,2025-02-28,150722,Credit,Card,Bengaluru,Internet Banking,Yes
+T01764,A00525,2024-07-08,52076,Credit,ATM,Mumbai,Mobile App,No
+T01765,A00430,2024-10-21,54880,Debit,UPI,Mumbai,Internet Banking,No
+T01766,A00024,2024-12-08,61567,Credit,Net Banking,Chennai,Internet Banking,No
+T01767,A00191,2025-03-22,198688,Credit,UPI,Mumbai,Internet Banking,No
+T01768,A00559,2025-01-26,44705,Debit,Net Banking,Hyderabad,ATM,No
+T01769,A00131,2025-06-26,154479,Credit,Net Banking,Bengaluru,POS,Yes
+T01770,A00406,2024-08-20,154651,Debit,UPI,Chennai,POS,Yes
+T01771,A00137,2024-12-31,146426,Credit,UPI,Delhi,Mobile App,No
+T01772,A00358,2024-11-11,112821,Credit,UPI,Hyderabad,Internet Banking,Yes
+T01773,A00271,2024-12-10,92975,Credit,Net Banking,Kolkata,POS,Yes
+T01774,A00171,2024-12-19,25075,Credit,Card,Bengaluru,POS,No
+T01775,A00041,2025-04-12,93939,Credit,UPI,Kolkata,Internet Banking,No
+T01776,A00269,2025-03-07,161976,Credit,UPI,Kolkata,Mobile App,No
+T01777,A00070,2024-07-08,15084,Debit,ATM,Mumbai,POS,Yes
+T01778,A00175,2024-10-21,43597,Debit,UPI,Bengaluru,POS,No
+T01779,A00239,2024-09-11,89305,Credit,ATM,Hyderabad,POS,No
+T01780,A00088,2024-07-24,122592,Credit,Card,Bengaluru,POS,Yes
+T01781,A00036,2024-07-08,187903,Credit,Net Banking,Kolkata,Internet Banking,No
+T01782,A00365,2025-06-03,142418,Debit,UPI,Kolkata,Mobile App,No
+T01783,A00462,2025-05-07,174560,Credit,ATM,Kolkata,Internet Banking,Yes
+T01784,A00473,2024-09-28,76078,Credit,Card,Mumbai,POS,No
+T01785,A00138,2025-05-20,113684,Debit,Net Banking,Chennai,Mobile App,Yes
+T01786,A00008,2025-01-17,72173,Credit,Net Banking,Hyderabad,Mobile App,Yes
+T01787,A00275,2025-03-07,15128,Debit,Net Banking,Hyderabad,POS,Yes
+T01788,A00287,2024-11-07,136353,Credit,Net Banking,Kolkata,Internet Banking,Yes
+T01789,A00068,2024-12-06,87536,Debit,Net Banking,Chennai,Internet Banking,Yes
+T01790,A00021,2025-02-09,166965,Credit,ATM,Kolkata,POS,Yes
+T01791,A00058,2024-11-10,132078,Debit,Net Banking,Hyderabad,Mobile App,Yes
+T01792,A00507,2025-03-11,94282,Debit,UPI,Mumbai,Internet Banking,Yes
+T01793,A00279,2025-03-07,192838,Debit,UPI,Bengaluru,Internet Banking,Yes
+T01794,A00103,2025-05-01,138326,Debit,ATM,Hyderabad,POS,Yes
+T01795,A00579,2024-11-03,139142,Debit,Net Banking,Kolkata,ATM,No
+T01796,A00221,2025-01-04,50459,Credit,UPI,Hyderabad,Internet Banking,Yes
+T01797,A00164,2025-02-15,193776,Debit,UPI,Chennai,ATM,No
+T01798,A00278,2025-03-15,142047,Credit,ATM,Kolkata,Mobile App,Yes
+T01799,A00381,2025-03-27,45135,Debit,Net Banking,Kolkata,Mobile App,Yes
+T01800,A00246,2025-01-21,84153,Debit,UPI,Hyderabad,POS,Yes
